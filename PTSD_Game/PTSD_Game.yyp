@@ -3,7 +3,7 @@
     {"id":{"name":"README_TEAM","path":"notes/README_TEAM/README_TEAM.yy",},"order":0,},
     {"id":{"name":"CoffeeShop","path":"rooms/CoffeeShop/CoffeeShop.yy",},"order":1,},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":0,},
-    {"id":{"name":"Player_Temp","path":"sprites/Player_Temp/Player_Temp.yy",},"order":0,},
+    {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":0,},
     {"id":{"name":"Bedroom","path":"rooms/Bedroom/Bedroom.yy",},"order":0,},
   ],
   "Options": [
