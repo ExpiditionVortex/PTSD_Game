@@ -1,0 +1,1 @@
+Comment all of your code, make sure to be descriptive on each commit you push to our repo on GitHub, and NEVER push to master.
