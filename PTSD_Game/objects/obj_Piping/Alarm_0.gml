@@ -1,15 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (currentID == 0)
+if (currentID == 0 && IsActive)
 {
 // Direction
 // 0 = Right
 // 1 = Left
 // 2 = Up
 // 3 = Down
-currentID += 1;
-alarm[0] = 15;
+//currentID += 1;
+//alarm[0] = 15;
+
+ds_list_add(obj_UtilController.pipeList, id);
 	
 	switch(global.dir)
 	{
@@ -34,8 +36,8 @@ alarm[0] = 15;
 //	instance_destroy();
 //}
 
-else
-{
-	currentID += 1;
-	alarm[0] = 15;
-}
+//else
+//{
+//	currentID += 1;
+//	alarm[0] = 15;
+//}

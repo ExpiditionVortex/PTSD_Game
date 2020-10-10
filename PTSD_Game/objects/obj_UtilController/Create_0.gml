@@ -8,4 +8,6 @@
 // 3 = Down
 
 global.dir = 0;
-global.length = 5;
+//global.length = 5;
+
+pipeList = ds_list_create();
