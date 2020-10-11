@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-other.IsActive = false;
-instance_destroy(other);
+var obj = instance_create_depth(x + 64, y, 0, obj_Piping);
+obj.IsActive = true;

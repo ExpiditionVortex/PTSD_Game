@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (currentID == 0 && IsActive)
+if (IsActive)
 {
 // Direction
 // 0 = Right
@@ -29,6 +29,7 @@ ds_list_add(obj_UtilController.pipeList, id);
 			break;
 	}
 }
+IsActive = false;
 
 // DELETE THIS I'M PRETTY SURE
 //else if (currentID == (global.length - 1))
