@@ -18,8 +18,8 @@
 		//ds_list_delete(obj_UtilController.pipeList, i);
 		}
 	
-		//instance_destroy();
-		ds_list_empty(list);
+		instance_destroy();
+		ds_list_destroy(list);
 	}
 	
 //x = xSpawn;
