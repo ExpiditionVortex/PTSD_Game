@@ -3,19 +3,30 @@
 
 
 	//instance_destroy(ds_list_find_value(obj_UtilController.pipeList, 5));
-	
-	for (i = 0; i < ds_list_size(obj_UtilController.pipeList); i += 1)
+	if (IsActive)
 	{
-		
+		for (i = 0; i < ds_list_size(list); i += 1)
+		{
+			var obj = ds_list_find_value(list, i);
+			if (obj.IsActive)
+			{
+				instance_destroy(obj);
+			}
 		//show_message(ds_list_find_value(obj_UtilController.pipeList, i));
 		//show_message(ds_list_size(obj_UtilController.pipeList));
-		instance_destroy(ds_list_find_value(obj_UtilController.pipeList, i));
+		
 		//ds_list_delete(obj_UtilController.pipeList, i);
+		}
+	
+		//instance_destroy();
+		ds_list_empty(list);
 	}
+	
+//x = xSpawn;
+//y = xSpawn;
+//global.dir = spawnDir;
 
-	//ds_list_empty(obj_UtilController.pipeList);
+	//
 	
 
 	//show_message(ds_list_size(obj_UtilController.pipeList));
-
-	 //instance_destroy();

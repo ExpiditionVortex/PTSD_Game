@@ -27,8 +27,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"room_Bedroom","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"room_Work","path":"rooms/room_Work/room_Work.yy",},
+    {"name":"room_Bedroom","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"room_CoffeeShop","path":"rooms/room_CoffeeShop/room_CoffeeShop.yy",},
   ],
   "Folders": [

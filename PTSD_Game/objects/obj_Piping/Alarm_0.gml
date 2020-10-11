@@ -8,10 +8,8 @@ if (IsActive)
 // 1 = Left
 // 2 = Up
 // 3 = Down
-//currentID += 1;
-//alarm[0] = 15;
 
-ds_list_add(obj_UtilController.pipeList, id);
+ds_list_add(list, id);
 	
 	switch(global.dir)
 	{
@@ -28,17 +26,6 @@ ds_list_add(obj_UtilController.pipeList, id);
 			instance_create_depth(x, y + 68, 0, obj_Piping);
 			break;
 	}
+	
+	IsActive = true;
 }
-IsActive = false;
-
-// DELETE THIS I'M PRETTY SURE
-//else if (currentID == (global.length - 1))
-//{
-//	instance_destroy();
-//}
-
-//else
-//{
-//	currentID += 1;
-//	alarm[0] = 15;
-//}
