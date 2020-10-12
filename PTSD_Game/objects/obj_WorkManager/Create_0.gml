@@ -5,3 +5,6 @@ global.currUtil = pointer_null;
 global.isDrawing = false;
 global.currPipeList = pointer_null;
 global.currPipeObj = pointer_null;
+
+global.housingTotal = 0;
+global.housingCurr = 0;
