@@ -14,7 +14,7 @@ ds_list_add(list, id);
 	switch(global.dir)
 	{
 		case 0:
-			var obj = instance_create_depth(x + 68, y, 0, obj_Piping);
+			instance_create_depth(x + 68, y, 0, obj_Piping);
 			break;
 		case 1:
 			instance_create_depth(x - 68, y, 0, obj_Piping);
