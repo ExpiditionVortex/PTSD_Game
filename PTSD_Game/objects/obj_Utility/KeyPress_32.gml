@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//if (!global.isDrawing)
+if (!global.isDrawing && global.currUtil.active)
 {
 	//if (currLine < 3)
 	{

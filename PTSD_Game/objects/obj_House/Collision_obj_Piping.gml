@@ -12,3 +12,6 @@ for (var i = 0; i < ds_list_size(other.list); i++)
 
 ds_list_delete(other.list, ds_list_size(other.list));
 instance_destroy(other);
+
+// Opens up the ability for next pipe to be drawn.
+global.isDrawing = false;
