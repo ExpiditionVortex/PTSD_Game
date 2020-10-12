@@ -12,7 +12,9 @@
 				instance_destroy(obj);
 			}
 		}
-		ds_list_empty(list);
+		
+		ds_list_clear(list);
+		//ds_list_empty(list);
 		instance_destroy();
 		//ds_list_destroy(list);
 	}

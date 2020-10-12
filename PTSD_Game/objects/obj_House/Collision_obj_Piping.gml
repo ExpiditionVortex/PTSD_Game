@@ -9,4 +9,6 @@ for (var i = 0; i < ds_list_size(other.list); i++)
 	var obj = ds_list_find_value(other.list, i);
 	obj.IsActive = false;
 }
+
+ds_list_delete(other.list, ds_list_size(other.list));
 instance_destroy(other);
