@@ -16,3 +16,5 @@ global.currPipeObj = pointer_null;
 
 global.housingTotal = 0;
 global.housingCurr = 0;
+
+//global.pipeManager = ds_list_create();
