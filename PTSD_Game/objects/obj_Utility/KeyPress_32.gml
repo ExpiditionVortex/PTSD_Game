@@ -20,6 +20,7 @@ if (!global.isDrawing && global.currUtil == id)
 				global.currPipeList = global.currPipeObj.list;
 				global.currPipeList = ds_list_create();
 				ds_list_add(global.currPipeList, global.currPipeObj);
+				//ds_list_add(global.pipeManager, global.currPipeList);
 				global.dir = 0;
 				global.isDrawing = true;
 				//show_message(utilityType);
@@ -30,6 +31,7 @@ if (!global.isDrawing && global.currUtil == id)
 				global.currPipeList = global.currPipeObj.list;
 				global.currPipeList = ds_list_create();
 				ds_list_add(global.currPipeList, global.currPipeObj);
+				//ds_list_add(global.pipeManager, global.currPipeList);
 				global.dir = 2;
 				global.isDrawing = true;
 				//show_message(utilityType);
@@ -39,7 +41,9 @@ if (!global.isDrawing && global.currUtil == id)
 				global.currPipeObj.utilityType = utilityType;
 				global.currPipeList = global.currPipeObj.list;
 				global.currPipeList = ds_list_create();
+				
 				ds_list_add(global.currPipeList, global.currPipeObj);
+				//ds_list_add(global.pipeManager, global.currPipeList);
 				global.dir = 3;
 				global.isDrawing = true;
 				//show_message(utilityType);

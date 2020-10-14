@@ -14,16 +14,20 @@ ds_list_add(list, id);
 	switch(global.dir)
 	{
 		case 0:
-			instance_create_depth(x + 68, y, 0, obj_Piping);
+			var obj = instance_create_depth(x + 68, y, 0, obj_Piping);
+			obj.utilityType = utilityType;
 			break;
 		case 1:
-			instance_create_depth(x - 68, y, 0, obj_Piping);
+			var obj = instance_create_depth(x - 68, y, 0, obj_Piping);
+			obj.utilityType = utilityType;
 			break;
 		case 2:
-			instance_create_depth(x, y - 68, 0, obj_Piping);
+			var obj = instance_create_depth(x, y - 68, 0, obj_Piping);
+			obj.utilityType = utilityType;
 			break;
 		case 3:
-			instance_create_depth(x, y + 68, 0, obj_Piping);
+			var obj = instance_create_depth(x, y + 68, 0, obj_Piping);
+			obj.utilityType = utilityType;
 			break;
 	}
 	
