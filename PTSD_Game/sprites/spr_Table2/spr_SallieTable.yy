@@ -8,9 +8,9 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_right": 0,
   "bbox_top": 0,
-  "bbox_bottom": 127,
+  "bbox_bottom": 0,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},"LayerId":{"name":"2bc73690-d810-4b8e-8374-dfdf0b2c8d05","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tableStandard","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},"resourceVersion":"1.0","name":"d8984482-3465-43c8-b545-346c727703e0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},"LayerId":{"name":"2bc73690-d810-4b8e-8374-dfdf0b2c8d05","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_SallieTable","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},"resourceVersion":"1.0","name":"d8984482-3465-43c8-b545-346c727703e0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tableStandard","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},
+    "spriteId": {"name":"spr_SallieTable","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ab48052e-162d-4d64-a299-a6609380ab71","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cb56e522-7481-4561-8f00-0d14c212852a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 64,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tableStandard","path":"sprites/spr_tableStandard/spr_tableStandard.yy",},
+    "parent": {"name":"spr_SallieTable","path":"sprites/spr_SallieTable/spr_SallieTable.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_tableStandard",
+    "name": "spr_SallieTable",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_tableStandard",
+  "name": "spr_SallieTable",
   "tags": [],
   "resourceType": "GMSprite",
 }

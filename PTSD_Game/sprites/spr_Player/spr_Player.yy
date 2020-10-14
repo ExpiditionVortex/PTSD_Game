@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d3b91481-448b-45b6-ba9b-5fe26ee23793","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Standard",
+    "path": "folders/Sprites/Standard.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Player",

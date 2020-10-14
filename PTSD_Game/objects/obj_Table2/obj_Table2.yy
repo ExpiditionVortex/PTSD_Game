@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tableSallie",
-    "path": "sprites/spr_tableSallie/spr_tableSallie.yy",
+    "name": "spr_Table2",
+    "path": "sprites/spr_Table2/spr_Table2.yy",
   },
   "solid": true,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Coffee Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tableSallie",
+  "name": "obj_Table2",
   "tags": [],
   "resourceType": "GMObject",
 }

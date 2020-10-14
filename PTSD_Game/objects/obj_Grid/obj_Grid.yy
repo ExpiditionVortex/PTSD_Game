@@ -1,9 +1,6 @@
 {
-  "spriteId": {
-    "name": "spr_tableStandard",
-    "path": "sprites/spr_tableStandard/spr_tableStandard.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -20,7 +17,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Grid","path":"objects/obj_Grid/obj_Grid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":5,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_Grid","path":"objects/obj_Grid/obj_Grid.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Coffee Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ob_tableStandard",
+  "name": "obj_Grid",
   "tags": [],
   "resourceType": "GMObject",
 }
