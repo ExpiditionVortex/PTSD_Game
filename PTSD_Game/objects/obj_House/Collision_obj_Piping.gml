@@ -5,7 +5,7 @@
 //other.IsSelected = false;
 
 // Checks if the pipe is gas, water, or electricity.
-switch (global.currPipeObj.utilityType)
+switch (global.workController.currPipeObj.utilityType)
 {
 	// Gas Case
 	case 0:
@@ -37,7 +37,6 @@ switch (global.currPipeObj.utilityType)
 			}
 		
 			ds_list_delete(other.list, ds_list_size(other.list));
-			instance_destroy(other);
 			
 			hasGas = true;
 		}
@@ -74,7 +73,6 @@ switch (global.currPipeObj.utilityType)
 			}
 		
 			ds_list_delete(other.list, ds_list_size(other.list));
-			instance_destroy(other);
 			
 			hasWater = true;
 		}
@@ -104,6 +102,9 @@ switch (global.currPipeObj.utilityType)
 		}
 		else
 		{
+			
+			//show_message(ds_list_size(other.list))
+			
 			for (var i = 0; i < ds_list_size(other.list); i++)
 			{
 				var obj = ds_list_find_value(other.list, i);
@@ -111,7 +112,6 @@ switch (global.currPipeObj.utilityType)
 			}
 		
 			ds_list_delete(other.list, ds_list_size(other.list));
-			instance_destroy(other);
 			
 			hasElectricity = true;
 		}

@@ -3,5 +3,8 @@
 
 if (global.housingCurr >= global.housingTotal)
 {
-	show_message("Finished!");
+	global.housingCurr = 0;
+	global.housingTotal = 0;
+
+	room_goto(nextRoom);
 }

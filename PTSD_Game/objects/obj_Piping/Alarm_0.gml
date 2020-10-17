@@ -11,7 +11,7 @@ if (IsActive)
 
 ds_list_add(list, id);
 	
-	switch(global.dir)
+	switch(global.workController.dir)
 	{
 		case 0:
 			var obj = instance_create_depth(x + 68, y, 0, obj_Piping);
