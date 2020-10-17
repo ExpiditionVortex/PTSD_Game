@@ -24,6 +24,7 @@ switch (global.currPipeObj.utilityType)
 				}
 				
 				ds_list_clear(other.list);
+				ds_list_destroy(other.list);
 				instance_destroy(other);
 			}
 		}
@@ -60,6 +61,7 @@ switch (global.currPipeObj.utilityType)
 				}
 				
 				ds_list_clear(other.list);
+				ds_list_destroy(other.list);
 				instance_destroy(other);
 			}
 		}
@@ -96,6 +98,7 @@ switch (global.currPipeObj.utilityType)
 				}
 				
 				ds_list_clear(other.list);
+				ds_list_destroy(other.list);
 				instance_destroy(other);
 			}
 		}
