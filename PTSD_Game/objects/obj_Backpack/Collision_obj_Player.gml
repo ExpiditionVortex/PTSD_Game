@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-room_goto(room_Work_S1);
+room_goto(room_CoffeeShop);

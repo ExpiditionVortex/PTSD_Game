@@ -8,13 +8,13 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 127,
+  "bbox_right": 63,
   "bbox_top": 0,
   "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
+  "width": 64,
   "height": 64,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Computer/spr_Computer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Computer/spr_Computer.yy",},"LayerId":{"name":"698baa97-e215-4199-ac47-64f4581b8fd3","path":"sprites/spr_Computer/spr_Computer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Computer","path":"sprites/spr_Computer/spr_Computer.yy",},"resourceVersion":"1.0","name":"f89b14b7-fb94-4b71-bb09-63958cf31516","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Backpack/spr_Backpack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Backpack/spr_Backpack.yy",},"LayerId":{"name":"698baa97-e215-4199-ac47-64f4581b8fd3","path":"sprites/spr_Backpack/spr_Backpack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Backpack","path":"sprites/spr_Backpack/spr_Backpack.yy",},"resourceVersion":"1.0","name":"f89b14b7-fb94-4b71-bb09-63958cf31516","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_Computer","path":"sprites/spr_Computer/spr_Computer.yy",},
+    "spriteId": {"name":"spr_Backpack","path":"sprites/spr_Backpack/spr_Backpack.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"297d74da-a923-46ab-8a98-b3e223a5dbba","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Computer/spr_Computer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7f755e21-e7fc-4a1d-a2bf-f50455b40a53","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f89b14b7-fb94-4b71-bb09-63958cf31516","path":"sprites/spr_Backpack/spr_Backpack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,13 +54,13 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 64,
+    "xorigin": 32,
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_Computer","path":"sprites/spr_Computer/spr_Computer.yy",},
+    "parent": {"name":"spr_Backpack","path":"sprites/spr_Backpack/spr_Backpack.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_Computer",
+    "name": "spr_Backpack",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/Bedroom.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_Computer",
+  "name": "spr_Backpack",
   "tags": [],
   "resourceType": "GMSprite",
 }

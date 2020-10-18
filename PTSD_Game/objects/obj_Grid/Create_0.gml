@@ -1,7 +1,7 @@
 // Creating grid
 
-var cell_width = 16;
-var cell_height = 16;
+var cell_width = 64;
+var cell_height = 64;
 
 // Used Div operator as opposed to divide since it returns a whole number.
 var hcells = room_width div cell_width;
