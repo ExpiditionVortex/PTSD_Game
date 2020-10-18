@@ -7,3 +7,6 @@ walkSpeed = 10;
 collisionSpeed = walkSpeed + 2;
 
 pathPlayer = path_add();
+
+prevX = x;
+prevY = y;
