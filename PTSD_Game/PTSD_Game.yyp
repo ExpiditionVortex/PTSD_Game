@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_TableSallie","path":"objects/obj_TableSallie/obj_TableSallie.yy",},"order":7,},
     {"id":{"name":"README_TEAM","path":"notes/README_TEAM/README_TEAM.yy",},"order":0,},
     {"id":{"name":"spr_Utility","path":"sprites/spr_Utility/spr_Utility.yy",},"order":6,},
     {"id":{"name":"room_Work_S2","path":"rooms/room_Work_S2/room_Work_S2.yy",},"order":2,},
@@ -29,6 +30,7 @@
     {"id":{"name":"spr_ElectricityUtil","path":"sprites/spr_ElectricityUtil/spr_ElectricityUtil.yy",},"order":1,},
     {"id":{"name":"spr_WaterPipe","path":"sprites/spr_WaterPipe/spr_WaterPipe.yy",},"order":7,},
     {"id":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"order":2,},
+    {"id":{"name":"obj_PlayerSeat","path":"objects/obj_PlayerSeat/obj_PlayerSeat.yy",},"order":8,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
     {"id":{"name":"obj_WorkController","path":"objects/obj_WorkController/obj_WorkController.yy",},"order":3,},
     {"id":{"name":"spr_Border","path":"sprites/spr_Border/spr_Border.yy",},"order":0,},
@@ -52,8 +54,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"room_Work_S1","path":"rooms/room_Work_S1/room_Work_S1.yy",},
     {"name":"room_CoffeeShop","path":"rooms/room_CoffeeShop/room_CoffeeShop.yy",},
+    {"name":"room_Work_S1","path":"rooms/room_Work_S1/room_Work_S1.yy",},
     {"name":"room_Work_S2","path":"rooms/room_Work_S2/room_Work_S2.yy",},
     {"name":"room_Work","path":"rooms/room_Work/room_Work.yy",},
     {"name":"room_Work_S3","path":"rooms/room_Work_S3/room_Work_S3.yy",},

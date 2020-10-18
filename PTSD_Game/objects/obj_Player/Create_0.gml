@@ -5,3 +5,5 @@ global.playerID = id;
 
 walkSpeed = 10;
 collisionSpeed = walkSpeed + 2;
+
+path = path_add();

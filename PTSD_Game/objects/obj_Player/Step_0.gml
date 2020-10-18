@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (canMove)
+if (canControl)
 {
 	// Up 
 	if (keyboard_check(ord("W")) && place_free(x, y - collisionSpeed))
@@ -40,5 +40,14 @@ if (canMove)
 	{
 		speed = 10;
 	}
-
+}
+else
+{
+	var seatX = obj_PlayerSeat.x;
+	var seatY = obj_PlayerSeat.y;
+	
+	if (mp_grid_path(global.grid, path, x, y, seatX, seatY, 1))
+	{
+		path_start(path, 3, path_action_stop, false);
+	}
 }
