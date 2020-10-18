@@ -52,4 +52,5 @@ else
 	{
 		path_start(pathPlayer, 3, path_action_stop, false);
 	}
+	
 }

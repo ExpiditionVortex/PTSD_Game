@@ -2,11 +2,13 @@
   "resources": [
     {"id":{"name":"obj_TableSallie","path":"objects/obj_TableSallie/obj_TableSallie.yy",},"order":7,},
     {"id":{"name":"README_TEAM","path":"notes/README_TEAM/README_TEAM.yy",},"order":0,},
+    {"id":{"name":"Object18","path":"objects/Object18/Object18.yy",},"order":9,},
     {"id":{"name":"spr_Utility","path":"sprites/spr_Utility/spr_Utility.yy",},"order":6,},
     {"id":{"name":"room_Work_S2","path":"rooms/room_Work_S2/room_Work_S2.yy",},"order":2,},
     {"id":{"name":"obj_TPSeat","path":"objects/obj_TPSeat/obj_TPSeat.yy",},"order":6,},
     {"id":{"name":"spr_TableSallie","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"order":2,},
     {"id":{"name":"spr_Computer","path":"sprites/spr_Computer/spr_Computer.yy",},"order":0,},
+    {"id":{"name":"spr_SallieSpace","path":"sprites/spr_SallieSpace/spr_SallieSpace.yy",},"order":15,},
     {"id":{"name":"obj_Piping","path":"objects/obj_Piping/obj_Piping.yy",},"order":1,},
     {"id":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"order":1,},
     {"id":{"name":"spr_UtilGoal","path":"sprites/spr_UtilGoal/spr_UtilGoal.yy",},"order":5,},
