@@ -7,12 +7,17 @@
 // 2 = Up
 // 3 = Down
 
-global.dir = 0;
+global.workController = id;
 
-global.currUtil = pointer_null;
+dir = 0;
+currUtil = pointer_null;
+
 global.isDrawing = false;
-global.currPipeList = pointer_null;
-global.currPipeObj = pointer_null;
+
+currPipeList = pointer_null;
+currPipeObj = pointer_null;
+
+//global.allPipes = ds_list_create();
 
 global.housingTotal = 0;
 global.housingCurr = 0;

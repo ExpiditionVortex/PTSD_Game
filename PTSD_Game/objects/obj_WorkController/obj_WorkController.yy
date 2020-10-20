@@ -27,7 +27,9 @@
     {"isDnD":false,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_WorkController","path":"objects/obj_WorkController/obj_WorkController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":5,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_WorkController","path":"objects/obj_WorkController/obj_WorkController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":5,"value":"room_Bedroom","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"nextRoom","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Work",

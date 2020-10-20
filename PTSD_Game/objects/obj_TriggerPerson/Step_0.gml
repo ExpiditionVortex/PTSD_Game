@@ -3,10 +3,26 @@
 
 /// Create path and move to the player
 
-var playerX = global.playerID.x;
-var playerY = global.playerID.y;
-
-if (mp_grid_path(global.grid, path, x, y, playerX, playerY, 1))
+if (global.coffeeShopStage == 0)
 {
-	path_start(path, 12, path_action_stop, false);
+	
+	if (mp_grid_path(global.grid, path, x, y, seatX, seatY, 1))
+	{
+		path_start(path, walkSpeed, path_action_stop, false);
+	}
+}
+else if (global.coffeeShopStage == 1)
+{
+	var playerX = global.playerID.x;
+	var playerY = global.playerID.y;
+
+	if (mp_grid_path(global.grid, path, x, y, playerX, playerY, 1))
+	{
+		path_start(path, runSpeed, path_action_stop, false);
+	}
+}
+else
+{
+	x = seatX;
+	y = seatY;
 }
