@@ -9,8 +9,8 @@
  */
 
 global.isDrawing = false;
-global.currPipeList = pointer_null;
-global.currPipeObj = pointer_null;
+//global.currPipeList = pointer_null;
+//global.currPipeObj = pointer_null;
 
 //if (utilityType == 0)
 //{
