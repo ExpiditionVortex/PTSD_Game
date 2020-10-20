@@ -1,4 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-room_goto(room_CoffeeShop_S0);
+if (global.gameController.canHangout)
+{
+	global.gameController.canHangout = false;
+	room_goto(room_CoffeeShop_S0);	
+}

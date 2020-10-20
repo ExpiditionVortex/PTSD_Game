@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_Door/spr_Door.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_Door/spr_Door.yy",},"LayerId":{"name":"a8aa9619-71a3-4ef8-94dc-c18764d416d9","path":"sprites/spr_Door/spr_Door.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Door","path":"sprites/spr_Door/spr_Door.yy",},"resourceVersion":"1.0","name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},"LayerId":{"name":"a8aa9619-71a3-4ef8-94dc-c18764d416d9","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_TPSeat","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},"resourceVersion":"1.0","name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_Door","path":"sprites/spr_Door/spr_Door.yy",},
+    "spriteId": {"name":"spr_TPSeat","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"53352627-c14d-442b-adca-0a579eb9587c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_Door/spr_Door.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3d025e67-7a46-4ca7-8402-43569248e2bf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8a96a55c-569b-4b68-a7c1-345924dcad7d","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_Door","path":"sprites/spr_Door/spr_Door.yy",},
+    "parent": {"name":"spr_TPSeat","path":"sprites/spr_TPSeat/spr_TPSeat.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_Door",
+    "name": "spr_TPSeat",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/Coffee Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_Door",
+  "name": "spr_TPSeat",
   "tags": [],
   "resourceType": "GMSprite",
 }
