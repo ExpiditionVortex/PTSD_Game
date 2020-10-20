@@ -4,7 +4,7 @@
     "path": "sprites/spr_TPSeat/spr_TPSeat.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

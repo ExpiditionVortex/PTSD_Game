@@ -3,17 +3,15 @@
 
 /// Create path and move to the player
 
-if (global.coffeeShopStage == 0 || global.coffeeShopStage == 2)
+if (global.coffeeShopStage == 0)
 {
-	var seatX = obj_TPSeat.x;
-	var seatY = obj_TPSeat.y;
 	
 	if (mp_grid_path(global.grid, path, x, y, seatX, seatY, 1))
 	{
 		path_start(path, walkSpeed, path_action_stop, false);
 	}
 }
-else
+else if (global.coffeeShopStage == 1)
 {
 	var playerX = global.playerID.x;
 	var playerY = global.playerID.y;
@@ -22,4 +20,9 @@ else
 	{
 		path_start(path, runSpeed, path_action_stop, false);
 	}
+}
+else
+{
+	x = seatX;
+	y = seatY;
 }

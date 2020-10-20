@@ -13,7 +13,7 @@ if (!tpInstantiated)
 	alarm[0] = 5 * room_speed;
 	
 	// Flashback Placeholder Alarm
-	alarm[1] = 10 * room_speed;
+	//alarm[1] = 10 * room_speed;
 	
 	
 	//show_question("Dialogue Placeholder");

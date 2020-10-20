@@ -28,7 +28,7 @@
     "path": "folders/Objects/Coffee Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object18",
+  "name": "obj_SallieSpace",
   "tags": [],
   "resourceType": "GMObject",
 }
