@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+// Plays out and calls in the Trigger person in coffeeshop stage 0
 
 if (!tpInstantiated)
 {
@@ -12,14 +10,10 @@ if (!tpInstantiated)
 	// Activates the trigger person after 5 seconds. Will need to move this to the end of the dialogue script after the dialogue ends.
 	alarm[0] = 5 * room_speed;
 	
-	// Flashback Placeholder Alarm
-	//alarm[1] = 10 * room_speed;
-	
-	
-	//show_question("Dialogue Placeholder");
-	
-	// Stage II - Flashback time
-	//global.coffeeShopStage++;
+	// Temp Countdown timer
+	alarm[1] = 10 * room_speed;
 	
 	tpInstantiated = true;
+	
+	//room_goto(room_CoffeeShop_S0);
 }

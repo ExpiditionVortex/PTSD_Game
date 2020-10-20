@@ -1,4 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Temp until dialogue portion gets added
 
-global.coffeeShopStage++;
+global.coffeeShopStage = 1;
+room_goto(room_CoffeeShop_S1);

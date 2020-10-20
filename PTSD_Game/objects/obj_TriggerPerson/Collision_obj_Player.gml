@@ -3,7 +3,6 @@
 
 if (global.coffeeShopStage == 1)
 {
-	
 	room_restart();
 	obj_Player.x = obj_PlayerSeat.x;
 	obj_Player.y = obj_PlayerSeat.y;

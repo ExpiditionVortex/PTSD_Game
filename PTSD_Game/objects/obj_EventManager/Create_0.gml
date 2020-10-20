@@ -3,5 +3,15 @@
 
 global.eventManager = id;
 
-global.lockedIn = true;
-global.dialogueStage = 0;
+if (id == room_CoffeeShop_S0)
+{
+	coffeeShopStage = 0;
+}
+else if (id == room_CoffeeShop_S1)
+{
+	coffeeShopStage = 1;
+}
+else if (id == room_CoffeeShop_S2)
+{
+	coffeeShopStage = 2;
+}
