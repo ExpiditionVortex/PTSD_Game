@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_left": 8,
+  "bbox_right": 231,
   "bbox_top": 0,
-  "bbox_bottom": 127,
+  "bbox_bottom": 133,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 256,
-  "height": 128,
+  "height": 134,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"LayerId":{"name":"2bc73690-d810-4b8e-8374-dfdf0b2c8d05","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_TableSallie","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","name":"d8984482-3465-43c8-b545-346c727703e0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"12ce32f5-591f-4647-aed8-c1fd664b00d7","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"12ce32f5-591f-4647-aed8-c1fd664b00d7","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"LayerId":{"name":"c4c225f8-9668-49f1-b233-fc6c24cbb359","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_TableSallie","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","name":"12ce32f5-591f-4647-aed8-c1fd664b00d7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_TableSallie","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"cb56e522-7481-4561-8f00-0d14c212852a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8984482-3465-43c8-b545-346c727703e0","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b344ddf3-4d1e-497b-8f09-0be1a9b6ad8c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12ce32f5-591f-4647-aed8-c1fd664b00d7","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -55,7 +55,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 128,
-    "yorigin": 64,
+    "yorigin": 67,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_TableSallie","path":"sprites/spr_TableSallie/spr_TableSallie.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2bc73690-d810-4b8e-8374-dfdf0b2c8d05","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c4c225f8-9668-49f1-b233-fc6c24cbb359","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Coffee Shop",

@@ -63,7 +63,7 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"room_CoffeeShop","path":"rooms/room_CoffeeShop/room_CoffeeShop.yy",},
+    {"name":"","path":"",},
     {"name":"room_Bedroom","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"room_Work_S1","path":"rooms/room_Work_S1/room_Work_S1.yy",},
     {"name":"room_CoffeeShop_S1","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
