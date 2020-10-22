@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c4c225f8-9668-49f1-b233-fc6c24cbb359","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Coffee Shop",
-    "path": "folders/Sprites/Coffee Shop.yy",
+    "name": "spr_Furniture",
+    "path": "folders/Sprites/Coffee Shop/spr_Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_TableSallie",

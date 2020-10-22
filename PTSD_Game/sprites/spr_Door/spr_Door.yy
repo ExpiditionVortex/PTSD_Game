@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a8aa9619-71a3-4ef8-94dc-c18764d416d9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Coffee Shop",
-    "path": "folders/Sprites/Coffee Shop.yy",
+    "name": "spr_Furniture",
+    "path": "folders/Sprites/Coffee Shop/spr_Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Door",
