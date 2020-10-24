@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Anivia",
-    "path": "sprites/spr_Anivia/spr_Anivia.yy",
+    "name": "Anivia_Idle",
+    "path": "sprites/Anivia_Idle/Anivia_Idle.yy",
   },
   "solid": false,
   "visible": true,
