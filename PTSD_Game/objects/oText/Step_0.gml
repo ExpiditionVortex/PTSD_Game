@@ -8,18 +8,10 @@ x2 = lerp(x2,x2Target,lerpProgress);
 
 if(keyboard_check_pressed(vk_space))
 {
-var _messageLength =  string_length(message);
+var _messageLength =  string_length(textmessage);
 	if(textProgress >= _messageLength)
 	{
 		instance_destroy();
-		if(instance_exists(oTextQueued))
-		{
-			with(oTextQueued) ticket--;
-		}
-		else
-		{
-			with(obj_Player) state =  lastState;
-		}
 	}	
 	else
 	{

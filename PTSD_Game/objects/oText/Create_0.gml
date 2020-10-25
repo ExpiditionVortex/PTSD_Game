@@ -15,6 +15,6 @@ x2Target = 736;
 lerpProgress = 0;
 textProgress = 0;
 
-///message = "Day begin: go to coffe shop";
+textmessage = "Day begin: go to coffe shop,then go to work! Have a nice day!";
 background = 0;
 
