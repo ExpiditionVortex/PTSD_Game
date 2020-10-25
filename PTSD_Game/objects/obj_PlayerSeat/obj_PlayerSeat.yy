@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_TPSeat",
-    "path": "sprites/spr_TPSeat/spr_TPSeat.yy",
+    "name": "spr_chairback",
+    "path": "sprites/spr_chairback/spr_chairback.yy",
   },
   "solid": false,
   "visible": false,
