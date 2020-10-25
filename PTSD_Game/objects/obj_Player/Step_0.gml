@@ -6,7 +6,6 @@ if (canControl)
 	// Up 
 	if (keyboard_check(ord("W")) && place_free(x, y - collisionSpeed))
 	{
-		//vspeed = -walkSpeed;
 		y -= walkSpeed;
 	}
 	
@@ -29,6 +28,11 @@ if (canControl)
 	{
 		//hspeed = -walkSpeed;
 		x -= walkSpeed;
+	}
+	
+	if (!keyboard_check(ord("A")) || !keyboard_check(ord("D")) || !keyboard_check(ord("S")) || !keyboard_check(ord("W")))
+	{
+		
 	}
 	
 	// Clamping player position to inside the current room.
