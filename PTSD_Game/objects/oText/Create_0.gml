@@ -2,7 +2,7 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-
+textMessage = "Day begin: go to coffe shop,then go to work! Have a nice day!";
 
 x1 = 448;
 y1 = 350;
@@ -14,7 +14,5 @@ x2Target = 736;
 
 lerpProgress = 0;
 textProgress = 0;
-
-textmessage = "Day begin: go to coffe shop,then go to work! Have a nice day!";
 background = 0;
 

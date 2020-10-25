@@ -8,7 +8,7 @@ x2 = lerp(x2,x2Target,lerpProgress);
 
 if(keyboard_check_pressed(vk_space))
 {
-var _messageLength =  string_length(textmessage);
+var _messageLength =  string_length(textMessage);
 	if(textProgress >= _messageLength)
 	{
 		instance_destroy();
