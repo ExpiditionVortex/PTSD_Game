@@ -5,15 +5,15 @@ if (sprite_index == spr_Pipe)
 {
 	if (utilityType == 0)
 	{
-		sprite_index = spr_GasUtil;
+		sprite_index = spr_GasPipe;
 	}
 	else if (utilityType == 1)
 	{
-		sprite_index = spr_WaterUtil;
+		sprite_index = spr_WaterPipe;
 	}
 	// Else the utility type is electricity
 	else
 	{
-		sprite_index = spr_ElectricityUtil;
+		sprite_index = spr_ElectricityPipe;
 	}
 }
