@@ -97,7 +97,7 @@
   ],
   "parent": {
     "name": "Player_Anims",
-    "path": "folders/Sprites/Player_Anims.yy",
+    "path": "folders/Sprites/Animations/Player_Anims.yy",
   },
   "resourceVersion": "1.0",
   "name": "Player_Left",

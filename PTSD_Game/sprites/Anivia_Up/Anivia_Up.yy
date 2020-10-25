@@ -97,7 +97,7 @@
   ],
   "parent": {
     "name": "Anivia_Anims",
-    "path": "folders/Sprites/Anivia_Anims.yy",
+    "path": "folders/Sprites/Animations/Anivia_Anims.yy",
   },
   "resourceVersion": "1.0",
   "name": "Anivia_Up",
