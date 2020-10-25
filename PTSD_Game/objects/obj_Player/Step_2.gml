@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+// Updates the animations if the player is being moved or not controlled.
 if (!canControl)
 {
 	if (x == xprevious && y == yprevious)
