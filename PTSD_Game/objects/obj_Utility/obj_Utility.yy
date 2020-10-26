@@ -21,7 +21,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Piping","path":"objects/obj_Piping/obj_Piping.yy",},"parent":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
