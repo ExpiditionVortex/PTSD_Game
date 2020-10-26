@@ -1,4 +1,5 @@
 /// @description Insert description here
+
 if(place_meeting(x,y,obj_Player))
 {	//make one text box when there is no one.
 	if(myTextBox == noone)

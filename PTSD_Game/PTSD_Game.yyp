@@ -36,7 +36,7 @@
     {"id":{"name":"spr_TriggerPerson","path":"sprites/spr_TriggerPerson/spr_TriggerPerson.yy",},"order":3,},
     {"id":{"name":"spr_Pipe","path":"sprites/spr_Pipe/spr_Pipe.yy",},"order":4,},
     {"id":{"name":"obj_EventManager","path":"objects/obj_EventManager/obj_EventManager.yy",},"order":5,},
-    {"id":{"name":"oText","path":"objects/oText/oText.yy",},"order":6,},
+    {"id":{"name":"oText","path":"objects/oText/oText.yy",},"order":7,},
     {"id":{"name":"obj_TriggerPerson","path":"objects/obj_TriggerPerson/obj_TriggerPerson.yy",},"order":2,},
     {"id":{"name":"spr_ElectricityUtil","path":"sprites/spr_ElectricityUtil/spr_ElectricityUtil.yy",},"order":1,},
     {"id":{"name":"obj_Timer","path":"objects/obj_Timer/obj_Timer.yy",},"order":3,},

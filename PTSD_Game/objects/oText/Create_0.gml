@@ -2,7 +2,9 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-textMessage = "Day begin: go to coffe shop,then go to work! Have a nice day!";
+textMessage[0] = "deafult!";
+page = 0;
+_name = "";
 
 x1 = 448;
 y1 = 350;
