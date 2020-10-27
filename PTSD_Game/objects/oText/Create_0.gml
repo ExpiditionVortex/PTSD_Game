@@ -17,4 +17,3 @@ x2Target = 736;
 lerpProgress = 0;
 textProgress = 0;
 background = 0;
-
