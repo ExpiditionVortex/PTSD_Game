@@ -3,4 +3,7 @@
 
 global.gameController = id;
 
+//the speed for the text display
+global.textSpeed = .75;
+
 global.coffeeShopStage = cSStage;

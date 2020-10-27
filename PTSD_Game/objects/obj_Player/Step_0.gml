@@ -48,16 +48,10 @@ if (canControl)
 		speed = 10;
 	}
 }
-else
+
+if(mouse_check_button_pressed(mb_left))
 {
-	//show_message("Stompy");
-	
-	var seatX = obj_PlayerSeat.x;
-	var seatY = obj_PlayerSeat.y;
-	
-	if (mp_grid_path(global.grid, pathPlayer, x, y, seatX, seatY, 0))
-	{
-		path_start(pathPlayer, 3, path_action_stop, false);
-	}
-	
+	myTextBox = instance_create_layer(mouse_x,mouse_y,"Instances",oText);
+	myTextBox.textMessage = myText;
+	myTextBox._name = myName;
 }

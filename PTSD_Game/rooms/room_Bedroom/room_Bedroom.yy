@@ -121,6 +121,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Computer","path":"objects/obj_Computer/obj_Computer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.875,"scaleY":0.7288136,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":480.0,"resourceVersion":"1.0","name":"inst_5F30BF04","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":64.0,"resourceVersion":"1.0","name":"inst_CF346B2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":64.0,"resourceVersion":"1.0","name":"inst_4D5E0CC4","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_test_Rose","path":"objects/obj_test_Rose/obj_test_Rose.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":224.0,"resourceVersion":"1.0","name":"inst_439D40D8","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_deskchair","path":"objects/obj_deskchair/obj_deskchair.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":352.0,"resourceVersion":"1.0","name":"inst_2E4DF0C4","tags":[],"resourceType":"GMRInstance",},
@@ -255,6 +256,7 @@
     {"name":"inst_235092BF","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"inst_82E8DCC","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"inst_57A2E677","path":"rooms/room_Bedroom/room_Bedroom.yy",},
+    {"name":"inst_439D40D8","path":"rooms/room_Bedroom/room_Bedroom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

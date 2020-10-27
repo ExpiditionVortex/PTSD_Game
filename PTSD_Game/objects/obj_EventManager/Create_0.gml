@@ -3,6 +3,7 @@
 
 global.eventManager = id;
 
+
 if (id == room_CoffeeShop_S0)
 {
 	coffeeShopStage = 0;
