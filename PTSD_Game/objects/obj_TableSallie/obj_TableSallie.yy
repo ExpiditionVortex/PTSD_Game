@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Coffee Shop",
-    "path": "folders/Objects/Coffee Shop.yy",
+    "name": "obj_Furniture",
+    "path": "folders/Objects/Coffee Shop/obj_Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_TableSallie",
