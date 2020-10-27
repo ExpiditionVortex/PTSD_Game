@@ -12,16 +12,16 @@ global.isDrawing = false;
 //global.currPipeList = pointer_null;
 //global.currPipeObj = pointer_null;
 
-//if (utilityType == 0)
-//{
-//	sprite_index = spr_GasUtil;
-//}
-//else if (utilityType == 1)
-//{
-//	sprite_index = spr_WaterUtil;
-//}
-//// Else the utility type is electricity
-//else
-//{
-//	sprite_index = spr_ElectricityUtil;
-//}
+if (utilityType == 0)
+{
+	sprite_index = spr_GasUtil;
+}
+else if (utilityType == 1)
+{
+	sprite_index = spr_WaterUtil;
+}
+// Else the utility type is electricity
+else
+{
+	sprite_index = spr_ElectricityUtil;
+}
