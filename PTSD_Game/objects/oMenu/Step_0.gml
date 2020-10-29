@@ -21,7 +21,7 @@ if ( menu_control)
 		}
 	}
 	
-	if(keyboard_check_pressed(vk_enter))
+	if(keyboard_check_pressed(vk_enter) or keyboard_check_pressed(vk_space))
 	{
 		menu_x_target = gui_width + 200;
 		menu_committed = menu_cursor;
@@ -48,7 +48,7 @@ if((menu_x > gui_width + 150) && (menu_committed != -1))
 	
 }
 
-if(keyboard_check_pressed(vk_space) and myTextBox != noone)
+if( (keyboard_check_pressed(vk_enter) or keyboard_check_pressed(vk_space)) and myTextBox != noone)
 {
 	instance_destroy(myTextBox);
 	//after destoried the textbox, reinitial everything.

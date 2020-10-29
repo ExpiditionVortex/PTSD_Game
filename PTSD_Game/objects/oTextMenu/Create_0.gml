@@ -11,8 +11,8 @@ y1 = 0;
 x2 = 648;
 y2 = 512;
 
-x1Target = 88;
-x2Target = 936;
+x1Target = 138;
+x2Target = 886;
 
 lerpProgress = 0;
 textProgress = 0;
