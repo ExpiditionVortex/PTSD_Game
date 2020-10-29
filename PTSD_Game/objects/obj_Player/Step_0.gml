@@ -3,31 +3,31 @@
 
 if (canControl)
 {	
-	if (keyboard_check(ord("A")) || keyboard_check(ord("D")) || keyboard_check(ord("S")) || keyboard_check(ord("W")))
+	if (keyboard_check(ord("A")) || keyboard_check(ord("D")) || keyboard_check(ord("S")) || keyboard_check(ord("W")) || keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right))
 	{
 			// Up 
-		if (keyboard_check(ord("W")) && place_free(x, y - collisionSpeed))
+		if ((keyboard_check(ord("W")) || keyboard_check(vk_up)) && place_free(x, y - collisionSpeed))
 		{
 			y -= walkSpeed;
 			sprite_index = Player_Up;
 		}
 		
 		// Down
-		if (keyboard_check(ord("S")) && place_free(x, y + collisionSpeed))
+		if ((keyboard_check(ord("S")) || keyboard_check(vk_down)) && place_free(x, y + collisionSpeed))
 		{
 			y += walkSpeed;
 			sprite_index = Player_Down;
 		}
 		
 		// Right
-		if (keyboard_check(ord("D")) && place_free(x + collisionSpeed, y))
+		if ((keyboard_check(ord("D")) || keyboard_check(vk_right)) && place_free(x + collisionSpeed, y))
 		{
 			x += walkSpeed;
 			sprite_index = Player_Right;
 		}
 		
 		// Left
-		if (keyboard_check(ord("A")) && place_free(x - collisionSpeed, y))
+		if ((keyboard_check(ord("A")) || keyboard_check(vk_left)) && place_free(x - collisionSpeed, y))
 		{
 			x -= walkSpeed;
 			sprite_index = Player_Left;

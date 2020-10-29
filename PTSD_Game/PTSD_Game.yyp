@@ -179,6 +179,7 @@
   },
   "RoomOrder": [
     {"name":"","path":"",},
+    {"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},
     {"name":"room_Bedroom","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"room_Work_S1","path":"rooms/room_Work_S1/room_Work_S1.yy",},
     {"name":"room_CoffeeShop_S1_Legacy","path":"rooms/room_CoffeeShop_S1_Legacy/room_CoffeeShop_S1_Legacy.yy",},
@@ -189,7 +190,6 @@
     {"name":"room_CoffeeShop_S2_Reference","path":"rooms/room_CoffeeShop_S2_Reference/room_CoffeeShop_S2_Reference.yy",},
     {"name":"room_CoffeeShop_S2","path":"rooms/room_CoffeeShop_S2/room_CoffeeShop_S2.yy",},
     {"name":"room_CoffeeShop_S0","path":"rooms/room_CoffeeShop_S0/room_CoffeeShop_S0.yy",},
-    {"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
