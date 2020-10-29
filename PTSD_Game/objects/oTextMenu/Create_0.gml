@@ -6,9 +6,9 @@ textMessage[0] = "deafult!";
 page = 0;
 _name = "";
 
-x1 = 648;
-y1 = 0;
-x2 = 648;
+x1 = 548;
+y1 = 50;
+x2 = 548;
 y2 = 512;
 
 x1Target = 138;

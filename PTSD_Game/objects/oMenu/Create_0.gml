@@ -1,7 +1,7 @@
 /// @description menu
 myTextBox = noone;
 myName = "";
-myText[0] = "Tips:\n w,a,s,d to...\nspace to speed dialogue...";
+myText[0] = "Tips:\n 1:w,a,s,d to move character \n 2:space or enter to speed dialogue and confirm option \n 3:click to choose in first computer";
 
 gui_width = display_get_gui_width();
 gui_height = display_get_gui_height();

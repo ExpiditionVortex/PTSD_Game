@@ -33,9 +33,9 @@ if((menu_x > gui_width + 150) && (menu_committed != -1))
 {
 	switch(menu_committed)
 	{	//go to the room_bedroom
-		case 2:default:room_goto(room_Bedroom);break;
+		case 2:default:room_goto(room_Bedroom); audio_stop_sound(Menu);break;
 		case 1:
-		// create a new 
+		// create a new dialogue box
 		if(myTextBox == noone)
 		{
 		myTextBox = instance_create_layer(x,y,"Instances",oTextMenu);
