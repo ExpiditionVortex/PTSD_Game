@@ -5,7 +5,7 @@ if (canControl)
 {	
 	if (keyboard_check(ord("A")) || keyboard_check(ord("D")) || keyboard_check(ord("S")) || keyboard_check(ord("W")) || keyboard_check(vk_up) || keyboard_check(vk_down) || keyboard_check(vk_left) || keyboard_check(vk_right))
 	{
-			// Up 
+		// Up 
 		if ((keyboard_check(ord("W")) || keyboard_check(vk_up)) && place_free(x, y - collisionSpeed))
 		{
 			y -= walkSpeed;
@@ -48,6 +48,17 @@ if (canControl)
 		speed = 10;
 	}
 }
+else
+{
+	var seatX = obj_PlayerSeat.x;
+	var seatY = obj_PlayerSeat.y;
+
+	if (mp_grid_path(global.grid, pathPlayer, x, y, seatX, seatY, 1))
+	{
+		path_start(pathPlayer, 3, path_action_stop, false);
+	}
+}
+
 
 if(mouse_check_button_pressed(mb_left))
 {
