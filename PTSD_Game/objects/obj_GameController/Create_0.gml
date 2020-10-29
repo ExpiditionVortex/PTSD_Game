@@ -7,3 +7,8 @@ global.gameController = id;
 global.textSpeed = 1;
 
 global.coffeeShopStage = cSStage;
+
+global.gamePaused = false;
+
+//start from menu
+//room_goto(rMenu);

@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Standard.yy",
   },
   "resourceVersion": "1.0",
   "name": "oText",
