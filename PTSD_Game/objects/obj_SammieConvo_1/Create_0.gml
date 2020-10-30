@@ -13,13 +13,13 @@ textMessage[6] = "Rollen: It has its ups and downs.";
 page = 0;
 _name = "";
 
-x1 = 448;
-y1 = 350;
-x2 = 448;
-y2 = 512;
+x1 = x;
+y1 = y - heightHalf;
+x2 = x;
+y2 = y + heightHalf;
 
-x1Target = 288;
-x2Target = 736;
+x1Target = x - widthHalf;
+x2Target = x + widthHalf;
 
 lerpProgress = 0;
 textProgress = 0;

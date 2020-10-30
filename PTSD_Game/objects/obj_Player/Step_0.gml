@@ -69,7 +69,7 @@ if (!inCutscene)
 		
 		show_debug_message(path_position);
 		
-		if (path_position > 0.96)
+		if (global.coffeeShopStage == 0 && path_position > 0.96)
 		{
 			room_goto(room_CoffeeShop_S1);
 		}
