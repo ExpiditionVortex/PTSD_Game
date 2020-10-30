@@ -15,3 +15,4 @@ pathPlayer = path_add();
 prevX = x;
 prevY = y;
 
+usingPath = false;
