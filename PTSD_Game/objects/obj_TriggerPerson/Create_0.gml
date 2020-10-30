@@ -5,7 +5,7 @@
 global.triggerPerson = id;
 path = path_add();
 
-if (global.coffeeShopStage == 0)
+if (global.coffeeShopStage == 0 || global.coffeeShopStage == 1)
 	instance_deactivate_object(id);
 
 // Getting TP's seat location

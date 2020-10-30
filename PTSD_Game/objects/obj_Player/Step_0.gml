@@ -71,7 +71,7 @@ if (!inCutscene)
 		
 		if (path_position > 0.96)
 		{
-			room_goto(room_CoffeeShop_S0_1);
+			room_goto(room_CoffeeShop_S1);
 		}
 	}
 }
