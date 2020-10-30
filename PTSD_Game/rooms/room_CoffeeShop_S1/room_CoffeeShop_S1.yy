@@ -165,6 +165,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_SallieSpace","path":"objects/obj_SallieSpace/obj_SallieSpace.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.90625,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_4299D169","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":64.0,"resourceVersion":"1.0","name":"inst_3EBEA297","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_SammieConvo_1","path":"objects/obj_SammieConvo_1/obj_SammieConvo_1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":1280.0,"resourceVersion":"1.0","name":"inst_39D5DAFB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_SammieConvo_2","path":"objects/obj_SammieConvo_2/obj_SammieConvo_2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":1280.0,"resourceVersion":"1.0","name":"inst_B7AF726","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Rammus","path":"objects/obj_Rammus/obj_Rammus.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":832.0,"resourceVersion":"1.0","name":"inst_74117995","tags":[],"resourceType":"GMRInstance",},
@@ -377,6 +378,7 @@
     {"name":"inst_5261F4E1","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_5173A745","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_39D5DAFB","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
+    {"name":"inst_B7AF726","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

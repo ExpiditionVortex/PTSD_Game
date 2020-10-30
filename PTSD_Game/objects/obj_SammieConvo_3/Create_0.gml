@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 textMessage[0] = "Sammie: You okay?";
-textMessage[1] = "Rollen: Whats?";
+textMessage[1] = "Rollen: What?";
 textMessage[2] = "Sammie: You okay?";
 textMessage[3] = "Rollen: Yeah... yeah I'm okay";
 textMessage[4] = "Sammie: You kinda dissapeared on me for a minute there.";

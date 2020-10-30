@@ -11,3 +11,5 @@ if (global.coffeeShopStage == 0 || global.coffeeShopStage == 1)
 // Getting TP's seat location
 seatX = obj_TPSeat.x;
 seatY = obj_TPSeat.y;
+
+usingPath = false;
