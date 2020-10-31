@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d7ffbe27-a00a-4aa7-8d1c-e25e407caa9c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Work",
-    "path": "folders/Sprites/Work.yy",
+    "name": "Game",
+    "path": "folders/Sprites/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_House",

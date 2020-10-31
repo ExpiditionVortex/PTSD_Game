@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"86686044-6a37-48d8-8c38-b6613c393455","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Work",
-    "path": "folders/Sprites/Work.yy",
+    "name": "Game",
+    "path": "folders/Sprites/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_ElectricityPipe",

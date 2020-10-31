@@ -32,8 +32,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Work",
-    "path": "folders/Objects/Work.yy",
+    "name": "Game",
+    "path": "folders/Objects/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_WorkController",
