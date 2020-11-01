@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (global.coffeeShopStage == 1)
+if (global.coffeeShopStage == 2)
 {
 	room_restart();
 	obj_Player.x = obj_PlayerSeat.x;

@@ -10,5 +10,7 @@ global.coffeeShopStage = cSStage;
 
 global.gamePaused = false;
 
+global.cofeeShopAttempt = 0;
+
 //start from menu
 //room_goto(rMenu);

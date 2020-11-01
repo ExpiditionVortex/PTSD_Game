@@ -3,5 +3,5 @@
 if (global.gameController.canWork)
 {
 	global.gameController.canWork = false;
-	room_goto(room_Work_S1);
+	room_goto(room_Work_Tutorial);
 }

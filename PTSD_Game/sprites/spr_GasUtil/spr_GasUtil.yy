@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ea0003cc-9c19-4a6e-ae1a-3c9d29f7e7b0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Work",
-    "path": "folders/Sprites/Work.yy",
+    "name": "Game",
+    "path": "folders/Sprites/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_GasUtil",
