@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_EmailStartButton",
-    "path": "sprites/spr_EmailStartButton/spr_EmailStartButton.yy",
+    "name": "spr_Email_LeftArrow",
+    "path": "sprites/spr_Email_LeftArrow/spr_Email_LeftArrow.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_EmailStartButton","path":"objects/obj_EmailStartButton/obj_EmailStartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_Email_LeftArrow","path":"objects/obj_Email_LeftArrow/obj_Email_LeftArrow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/Work/Email.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_EmailStartButton",
+  "name": "obj_Email_LeftArrow",
   "tags": [],
   "resourceType": "GMObject",
 }

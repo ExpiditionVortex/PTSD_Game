@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},"LayerId":{"name":"2869dc78-bd7a-4280-8495-c9ef990923ff","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_EmailStartButton","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},"resourceVersion":"1.0","name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},"LayerId":{"name":"2869dc78-bd7a-4280-8495-c9ef990923ff","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Email_StartButton","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},"resourceVersion":"1.0","name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_EmailStartButton","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},
+    "spriteId": {"name":"spr_Email_StartButton","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a5e4aaa8-8d8a-462c-9665-f1d2db53d5a3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a5e4aaa8-8d8a-462c-9665-f1d2db53d5a3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f0c6bcf-d968-41f5-b0eb-d428da4d9b55","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_EmailStartButton","path":"sprites/spr_EmailStartButton/spr_EmailStartButton.yy",},
+    "parent": {"name":"spr_Email_StartButton","path":"sprites/spr_Email_StartButton/spr_Email_StartButton.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_EmailStartButton",
+    "name": "spr_Email_StartButton",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/Work/Email.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_EmailStartButton",
+  "name": "spr_Email_StartButton",
   "tags": [],
   "resourceType": "GMSprite",
 }

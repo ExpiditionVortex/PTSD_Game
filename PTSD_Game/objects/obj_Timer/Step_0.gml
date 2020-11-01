@@ -41,9 +41,8 @@ if (isAM)
 	currTimeString += " AM";
 else
 	currTimeString += " PM";
+	
+global.workTimeString = currTimeString;
 
 // Outputting string value.
-show_debug_message(currTimeString);
-//show_debug_message(date_time_string(currTime));
-//show_debug_message(string(date_get_hour(currTime)) + ":" + string(date_get_minute(currTime)));
-
+//show_debug_message(currTimeString);
