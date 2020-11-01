@@ -1,5 +1,5 @@
 // Setting current time.
-var currTime = date_inc_minute(clockoutTime, -2 * (alarm[0] div room_speed));
+var currTime = date_inc_minute(clockoutTime, -(alarm[0] div room_speed));
 
 var currTimeString;
 var isAM;
