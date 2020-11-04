@@ -3,4 +3,14 @@
 
 global.gameController = id;
 
+//the speed for the text display
+global.textSpeed = 1;
+
 global.coffeeShopStage = cSStage;
+
+global.gamePaused = false;
+
+global.cofeeShopAttempt = 0;
+
+//start from menu
+//room_goto(rMenu);

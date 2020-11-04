@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5230c91f-c7cf-4737-ba67-6f70293d6a62","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fe750811-5cb0-45ed-be7b-5a31d06123b6","path":"sprites/spr_WaterUtil/spr_WaterUtil.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a2943ca1-2357-4e6b-b0c7-5065adc8e9dd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fe750811-5cb0-45ed-be7b-5a31d06123b6","path":"sprites/spr_WaterUtil/spr_WaterUtil.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c96b8472-eaf5-4f67-a699-75157c5f9f68","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Work",
-    "path": "folders/Sprites/Work.yy",
+    "name": "Game",
+    "path": "folders/Sprites/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_WaterUtil",

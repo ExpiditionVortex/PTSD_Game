@@ -5,6 +5,6 @@ if (global.housingCurr >= global.housingTotal)
 {
 	global.housingCurr = 0;
 	global.housingTotal = 0;
-
+	global.currContract++;
 	room_goto(nextRoom);
 }

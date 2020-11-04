@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_UtilGoal",
-    "path": "sprites/spr_UtilGoal/spr_UtilGoal.yy",
+    "name": "spr_House",
+    "path": "sprites/spr_House/spr_House.yy",
   },
   "solid": false,
   "visible": true,
@@ -34,8 +34,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Work",
-    "path": "folders/Objects/Work.yy",
+    "name": "Game",
+    "path": "folders/Objects/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_House",

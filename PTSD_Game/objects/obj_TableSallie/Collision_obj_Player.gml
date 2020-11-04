@@ -1,12 +1,8 @@
 
-
-with (global.eventManager)
+// Only called if player is on the first stage of the coffee shop level
+if (global.coffeeShopStage == 0)
 {
 	other.canControl = false;
 	other.xprevious = other.x;
 	other.yprevious = other.y;
-
-	// Will need to move this to end of dialogue section
-	if (global.coffeeShopStage == 0)
-		event_user(0);
 }
