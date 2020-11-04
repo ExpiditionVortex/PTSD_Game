@@ -1,9 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-textMessage[0] = "A REMINDER THIS IS TEMPORARY TEXT, NOT THE ACTUAL DIALOGUE";
-textMessage[1] = "Sammie: I'm Biggie Cheese";
-textMessage[2] = "Rollen: Hell yeah. Did you see that person that just entered?";
+textMessage[0] = "Sammie: So I was...";
+textMessage[1] = "Rollen: Did you see that person that just entered?";
+textMessage[2] = "Sammie: ... got like fifteen Cal Zones...";
+textMessage[3] = "Rollen: They remind me...";
+textMessage[4] = "Rollen: They remind me of-";
 
 
 page = 0;
