@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"31d729af-b2c6-47d3-b388-76246c047b9a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Work",
-    "path": "folders/Sprites/Work.yy",
+    "name": "Game",
+    "path": "folders/Sprites/Work/Game.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Pipe",

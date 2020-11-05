@@ -5,14 +5,14 @@ menu_x += (menu_x_target - menu_x) / menu_speed;
 //keyboard contorls
 if ( menu_control)
 {
-	if(keyboard_check_pressed(vk_up))
+	if(keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W")))
 	{
 		menu_cursor++;
 		if(menu_cursor >= menu_items)
 		{
 			menu_cursor = 0;
 		}		
-	}else if(keyboard_check_pressed(vk_down))
+	}else if(keyboard_check_pressed(vk_down) || keyboard_check_pressed(ord("S")))
 	{
 				menu_cursor--;
 		if(menu_cursor <0)
@@ -33,7 +33,7 @@ if((menu_x > gui_width + 150) && (menu_committed != -1))
 {
 	switch(menu_committed)
 	{	//go to the room_bedroom
-		case 2:default:room_goto(room_Bedroom); audio_stop_sound(Menu);break;
+		case 2: room_goto(room_Bedroom); audio_stop_sound(Menu); break;
 		case 1:
 		// create a new dialogue box
 		if(myTextBox == noone)
