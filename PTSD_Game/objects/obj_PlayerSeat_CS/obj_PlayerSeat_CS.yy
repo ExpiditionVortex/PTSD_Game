@@ -28,7 +28,7 @@
     "path": "folders/Objects/Coffee Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_PlayerSeat",
+  "name": "obj_PlayerSeat_CS",
   "tags": [],
   "resourceType": "GMObject",
 }

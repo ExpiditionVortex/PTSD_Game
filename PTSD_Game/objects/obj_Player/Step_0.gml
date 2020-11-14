@@ -55,8 +55,8 @@ if (!inCutscene)
 	{
 		if (!usingPath)
 		{
-			var seatX = obj_PlayerSeat.x;
-			var seatY = obj_PlayerSeat.y;
+			var seatX = moveLoc.x;
+			var seatY = moveLoc.y;
 			
 			if (mp_grid_path(global.grid, pathPlayer, x, y, seatX, seatY, 1))
 			{
@@ -64,23 +64,19 @@ if (!inCutscene)
 			}
 			
 			usingPath = true;
+			pathPosPrior = path_position;
 		}
 		
 		
 		show_debug_message(path_position);
 		
-		if (global.coffeeShopStage == 0 && path_position > 0.96)
+		
+		if (pathPosPrior < 1 && pathPosPrior != 0 && !(pathPosPrior < path_position))
 		{
-			room_goto(room_CoffeeShop_S1);
+			if (global.coffeeShopStage == 0)
+				room_goto(room_CoffeeShop_S1);
 		}
+		
+		pathPosPrior = path_position;
 	}
 }
-
-
-
-//if(mouse_check_button_pressed(mb_left))
-//{
-//	myTextBox = instance_create_layer(mouse_x,mouse_y,"Instances",oText);
-//	myTextBox.textMessage = myText;
-//	myTextBox._name = myName;
-//}
