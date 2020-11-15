@@ -21,16 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Bed","path":"objects/obj_Bed/obj_Bed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Bedroom",
-    "path": "folders/Objects/Bedroom.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Bedroom/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bed",
+  "name": "obj_Bed",
   "tags": [],
   "resourceType": "GMObject",
 }

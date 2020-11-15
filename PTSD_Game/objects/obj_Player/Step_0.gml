@@ -71,10 +71,12 @@ if (!inCutscene)
 		show_debug_message(path_position);
 		
 		
-		if (pathPosPrior < 1 && pathPosPrior != 0 && !(pathPosPrior < path_position))
+		if (pathPosPrior <= 1 && pathPosPrior != 0 && !(pathPosPrior < path_position))
 		{
-			if (global.coffeeShopStage == 0)
+			if (room == room_CoffeeShop_S0)
 				room_goto(room_CoffeeShop_S1);
+			else if (room == room_TherapistOffice_S1)
+				room_goto(room_TherapistOffice_S2);
 		}
 		
 		pathPosPrior = path_position;

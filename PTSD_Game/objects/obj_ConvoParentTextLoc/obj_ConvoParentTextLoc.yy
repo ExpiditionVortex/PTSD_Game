@@ -17,17 +17,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oMusic_bedroom","path":"objects/oMusic_bedroom/oMusic_bedroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "music",
-    "path": "folders/Objects/music.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oMusic_bedroom",
+  "name": "obj_ConvoParentTextLoc",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -17,6 +17,8 @@ var _messageLength =  string_length(textMessage[page]);
 			global.playerID.canControl = false;
 			global.playerID.inCutscene = false;
 			
+			room_goto(room_Bedroom_Therapist);
+			
 			instance_destroy();
 		}//need to reset these values to repeat the text expanding effects
 		else if(page+1 < array_length_1d(textMessage))

@@ -264,8 +264,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Work",
-    "path": "folders/Rooms/Work.yy",
+    "name": "Initial",
+    "path": "folders/Rooms/Work/Initial.yy",
   },
   "resourceVersion": "1.0",
   "name": "room_Work_S1",

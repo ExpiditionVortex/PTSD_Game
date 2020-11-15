@@ -400,8 +400,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Coffee Shop",
-    "path": "folders/Rooms/Coffee Shop.yy",
+    "name": "Initial",
+    "path": "folders/Rooms/Coffee Shop/Initial.yy",
   },
   "resourceVersion": "1.0",
   "name": "room_CoffeeShop_S3",
