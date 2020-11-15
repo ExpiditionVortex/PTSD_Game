@@ -38,8 +38,6 @@ else
 		myTextBox.textMessage = myText;
 		myTextBox._name = myName;
 		
-			//myTextBox.x = xNew;
-			//myTextBox.y = yNew;
 		}
 	}
 	else
