@@ -25,13 +25,10 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Bed_Reflection","path":"objects/obj_Bed_Reflection/obj_Bed_Reflection.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_Bed_Reflection","path":"objects/obj_Bed_Reflection/obj_Bed_Reflection.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"canTalkPersistent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"objectId":{"name":"obj_conversation_parent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"alreadyTalked","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"objectId":{"name":"obj_conversation_parent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"spawnTextOnObject","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"objectId":{"name":"obj_conversation_parent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Reflection",
     "path": "folders/Objects/Bedroom/Reflection.yy",
