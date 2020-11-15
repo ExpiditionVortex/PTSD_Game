@@ -23,11 +23,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
-  "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"canTalk","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"objectId":{"name":"obj_conversation_parent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Therapist","path":"objects/obj_Therapist/obj_Therapist.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
+  "properties": [
+    {"varType":2,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"therapistText","tags":[],"resourceType":"GMObjectProperty",},
+  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Therapist",
     "path": "folders/Objects/Therapist.yy",

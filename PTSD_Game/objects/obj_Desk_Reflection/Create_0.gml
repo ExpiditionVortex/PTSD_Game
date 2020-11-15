@@ -8,3 +8,5 @@ myTextBox = noone;
 myName = "Rollen: ";
 
 myText[0] = "I'm finding it really hard to get up today";
+
+initialized = false;
