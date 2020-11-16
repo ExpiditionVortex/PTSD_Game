@@ -5,8 +5,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "oText",
-    "path": "objects/oText/oText.yy",
+    "name": "obj_WorkReflectionBase",
+    "path": "objects/obj_WorkReflectionBase/obj_WorkReflectionBase.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -21,8 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_Reflection1","path":"objects/obj_Reflection1/obj_Reflection1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Reflection1","path":"objects/obj_Reflection1/obj_Reflection1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_WorkReflection1","path":"objects/obj_WorkReflection1/obj_WorkReflection1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects/Work/Therapist.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Reflection1",
+  "name": "obj_WorkReflection1",
   "tags": [],
   "resourceType": "GMObject",
 }

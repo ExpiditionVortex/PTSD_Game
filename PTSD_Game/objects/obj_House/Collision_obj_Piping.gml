@@ -128,18 +128,15 @@ if (therapistLevel)
 {
 	if(global.reflectionCurr == 1)
 	{
-		show_debug_message("One!");
-		global.isDrawing = false;
+		instance_activate_object(obj_WorkReflection1);
 	}
 	if(global.reflectionCurr == 2)
 	{
-		show_debug_message("Two!");
-		global.isDrawing = false;
+		instance_activate_object(obj_WorkReflection2);
 	}
 	if(global.reflectionCurr == 3)
 	{
-		show_debug_message("Three!");
-		global.isDrawing = false;
+		instance_activate_object(obj_WorkReflection3);
 	}
 	
 }

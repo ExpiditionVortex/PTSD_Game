@@ -2,7 +2,7 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-textMessage[0] = "Reflection 1!";
+textMessage[0] = "Reflection Base!";
 page = 0;
 _name = "";
 
@@ -17,3 +17,5 @@ x2Target = x + widthHalf;
 lerpProgress = 0;
 textProgress = 0;
 background = 0;
+
+instance_deactivate_object(id);
