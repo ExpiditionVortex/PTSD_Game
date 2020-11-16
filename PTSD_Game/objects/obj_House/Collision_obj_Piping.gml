@@ -39,7 +39,8 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasGas = true;
-			global.reflectionCurr++;
+			if (therapistLevel)
+				global.reflectionCurr++;
 		}
 	
 	break;
@@ -76,7 +77,8 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasWater = true;
-			global.reflectionCurr++;
+			if (therapistLevel)
+				global.reflectionCurr++;
 		}
 	
 	break;
@@ -116,7 +118,8 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasElectricity = true;
-			global.reflectionCurr++;
+			if (therapistLevel)
+				global.reflectionCurr++;
 		}
 	
 	break;
