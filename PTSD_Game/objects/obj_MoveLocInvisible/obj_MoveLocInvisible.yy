@@ -1,10 +1,7 @@
 {
-  "spriteId": {
-    "name": "spr_chairback",
-    "path": "sprites/spr_chairback/spr_chairback.yy",
-  },
+  "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Coffee Shop",
-    "path": "folders/Objects/Coffee Shop.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_PlayerSeat",
+  "name": "obj_MoveLocInvisible",
   "tags": [],
   "resourceType": "GMObject",
 }

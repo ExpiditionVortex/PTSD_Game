@@ -14,7 +14,9 @@ var _messageLength =  string_length(textMessage[page]);
 	{
 		if(page+1 == array_length_1d(textMessage))
 		{
-		instance_destroy();
+			obj_Player.inCutscene = false;
+			
+			instance_destroy();
 		}//need to reset these values to repeat the text expanding effects
 		else if(page+1 < array_length_1d(textMessage))
 		{

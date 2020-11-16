@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Bedroom",
-    "path": "folders/Objects/Bedroom.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Bedroom/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bedroom_door",
+  "name": "obj_Bedroom_door",
   "tags": [],
   "resourceType": "GMObject",
 }
