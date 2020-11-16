@@ -18,6 +18,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TherapistConvo3","path":"objects/obj_TherapistConvo3/obj_TherapistConvo3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":800.0,"resourceVersion":"1.0","name":"inst_5AD4B2C5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Door","path":"objects/obj_Door/obj_Door.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":96.0,"resourceVersion":"1.0","name":"inst_5E7FEC57","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_Overlay","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_62C46729","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":64.0,"resourceVersion":"1.0","name":"inst_62C46729","tags":[],"resourceType":"GMRInstance",},
@@ -178,6 +179,7 @@
     {"name":"inst_1FA6EBAC","path":"rooms/room_TherapistOffice_S3/room_TherapistOffice_S3.yy",},
     {"name":"inst_618CB907","path":"rooms/room_TherapistOffice_S3/room_TherapistOffice_S3.yy",},
     {"name":"inst_5AD4B2C5","path":"rooms/room_TherapistOffice_S3/room_TherapistOffice_S3.yy",},
+    {"name":"inst_5E7FEC57","path":"rooms/room_TherapistOffice_S3/room_TherapistOffice_S3.yy",},
   ],
   "inheritCreationOrder": true,
   "sequenceId": null,

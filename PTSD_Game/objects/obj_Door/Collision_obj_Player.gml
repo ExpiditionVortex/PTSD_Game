@@ -8,5 +8,11 @@ if (global.coffeeShopStage == 2)
 }
 else if (global.coffeeShopStage == 3)
 {
-	room_goto(room_Bedroom_Therapist_S1);
+	room_goto(room_TherapistOffice_S1);
 }
+else if (room == room_TherapistOffice_S3)
+{
+	game_end();
+}
+
+//room_goto(nextRoom);
