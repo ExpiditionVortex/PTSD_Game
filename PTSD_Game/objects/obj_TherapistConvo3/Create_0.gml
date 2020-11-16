@@ -3,10 +3,10 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 
-textMessage[0] = "Therapist: Convo Continues.";
-textMessage[1] = "Rollen: Convo Continues.";
-textMessage[2] = "Therapist: Convo Continues Pt. II.";
-textMessage[3] = "Rollen: Convo Continues Pt. II.";
+textMessage[0] = "Therapist: Convo Continues - Closing Scene.";
+textMessage[1] = "Rollen: Convo Continues  - Closing Scene..";
+textMessage[2] = "Therapist: Convo Continues Pt. II  - Closing Scene.";
+textMessage[3] = "Rollen: Convo Continues Pt. II  - Closing Scene.";
 
 page = 0;
 _name = "";

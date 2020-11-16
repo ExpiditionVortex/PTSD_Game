@@ -4,6 +4,6 @@ myTextBox = noone;
 
 myName = "";
 
-myText[0] = "Temp";
+myText[0] = "";
 
 initialized = false;

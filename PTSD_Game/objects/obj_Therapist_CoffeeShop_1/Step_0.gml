@@ -1,11 +1,5 @@
 if (canTalk)
 {
-	//if (myTextBox == noone)
-	//{
-	//	obj_Player.inCutscene = false;
-	//}
-	//else
-	//	obj_Player.inCutscene = true;
 	
 	if (canTalkPersistent)
 	{
@@ -23,6 +17,7 @@ if (canTalk)
 					myTextBox.x = x;
 					myTextBox.y = y;
 					
+					global.currInteractables++;
 					obj_Player.inCutscene = true;
 				}
 			}
@@ -50,6 +45,7 @@ if (canTalk)
 					myTextBox.textMessage = myText;
 					myTextBox._name = myName;
 					
+					global.currInteractables++;
 					obj_Player.inCutscene = true;
 				}
 			}
@@ -84,6 +80,7 @@ if (canTalk)
 						myTextBox.x = x;
 						myTextBox.y = y;
 						
+						global.currInteractables++;
 						obj_Player.inCutscene = true;
 					}
 				}
@@ -114,6 +111,7 @@ if (canTalk)
 						myTextBox.textMessage = myText;
 						myTextBox._name = myName;
 						
+						global.currInteractables++;
 						obj_Player.inCutscene = true;
 					}
 				}
@@ -130,5 +128,5 @@ if (canTalk)
 	}
 }
 
-if (alreadyTalked && global.playerID.inCutscene == false)
+if (alreadyTalked && !(global.playerID.inCutscene))
 	instance_destroy();
