@@ -39,6 +39,7 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasGas = true;
+			global.reflectionCurr++;
 		}
 	
 	break;
@@ -75,6 +76,7 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasWater = true;
+			global.reflectionCurr++;
 		}
 	
 	break;
@@ -114,13 +116,35 @@ switch (global.workController.currPipeObj.utilityType)
 			ds_list_delete(other.list, ds_list_size(other.list));
 			
 			hasElectricity = true;
+			global.reflectionCurr++;
 		}
 	
 	break;
 }
+	
+	
 
-// Debug Purposes
-// show_message("Gas" + string(hasGas) + ", " + "Water" + string(hasWater) + ", " + "Electricity" + string(hasElectricity) + ", ")
-
-// Opens up the ability for next pipe to be drawn.
-global.isDrawing = false;
+if (therapistLevel)
+{
+	if(global.reflectionCurr == 1)
+	{
+		show_debug_message("One!");
+		global.isDrawing = false;
+	}
+	if(global.reflectionCurr == 2)
+	{
+		show_debug_message("Two!");
+		global.isDrawing = false;
+	}
+	if(global.reflectionCurr == 3)
+	{
+		show_debug_message("Three!");
+		global.isDrawing = false;
+	}
+	
+}
+else
+{
+	// Opens up the ability for next pipe to be drawn.
+	global.isDrawing = false;
+}
