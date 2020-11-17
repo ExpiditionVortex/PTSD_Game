@@ -2,7 +2,7 @@
 // You can write your code in this editor
 event_inherited();
 
-textMessage[0] = "deafult!";
+textMessage[0] = "default!";
 page = 0;
 _name = "";
 

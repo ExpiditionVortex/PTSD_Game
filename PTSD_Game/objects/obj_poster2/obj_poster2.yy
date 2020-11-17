@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Bedroom",
-    "path": "folders/Objects/Bedroom.yy",
+    "name": "Standard",
+    "path": "folders/Objects/Bedroom/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_poster2",
+  "name": "obj_Poster2",
   "tags": [],
   "resourceType": "GMObject",
 }
