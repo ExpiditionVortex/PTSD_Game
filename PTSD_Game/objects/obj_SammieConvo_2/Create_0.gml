@@ -7,6 +7,11 @@ textMessage[2] = "Sammie: ... got like fifteen Cal Zones...";
 textMessage[3] = "Rollen: They remind me...";
 textMessage[4] = "Rollen: They remind me of-";
 
+_reactions[0] = a_emotion_2;
+_reactions[1] = a_emotion_1;
+_reactions[2] = a_emotion_2;
+_reactions[3] = a_emotion_1;
+_reactions[4] = a_emotion_1;
 
 page = 0;
 _name = "";

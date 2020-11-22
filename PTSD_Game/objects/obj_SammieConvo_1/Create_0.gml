@@ -9,6 +9,14 @@ textMessage[4] = "Sammie: Nope.";
 textMessage[5] = "Sammie: How is that new contract gig coming along?";
 textMessage[6] = "Rollen: It has its ups and downs.";
 
+_reactions[0] = a_emotion_2;
+_reactions[1] = a_emotion_1;
+_reactions[2] = a_emotion_2;
+_reactions[3] = a_emotion_1;
+_reactions[4] = a_emotion_2;
+_reactions[5] = a_emotion_2;
+_reactions[6] = a_emotion_1;
+
 
 page = 0;
 _name = "";

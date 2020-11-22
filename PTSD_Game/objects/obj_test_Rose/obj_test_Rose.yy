@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_conversation_parent",
-    "path": "objects/obj_conversation_parent/obj_conversation_parent.yy",
+    "name": "obj_txtReactionBox",
+    "path": "objects/obj_txtReactionBox/obj_txtReactionBox.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

@@ -5,6 +5,7 @@
 textMessage[0] = "deafult!";
 page = 0;
 _name = "";
+_reactions[0] = noone;
 
 x1 = x;
 y1 = y - heightHalf;

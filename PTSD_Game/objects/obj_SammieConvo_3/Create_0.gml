@@ -15,6 +15,19 @@ textMessage[10] = "Sammie: Already? You just got here.";
 textMessage[11] = "Rollen: I know, I'm sorry.";
 textMessage[12] = "Rollen: I just-";
 
+_reactions[0] = a_emotion_2;
+_reactions[1] = a_emotion_1;
+_reactions[2] = a_emotion_2;
+_reactions[3] = a_emotion_1;
+_reactions[4] = a_emotion_2;
+_reactions[5] = a_emotion_1;
+_reactions[6] = a_emotion_2;
+_reactions[7] = a_emotion_1;
+_reactions[8] = a_emotion_1;
+_reactions[9] = a_emotion_1;
+_reactions[10] = a_emotion_2;
+_reactions[11] = a_emotion_1;
+_reactions[12] = a_emotion_1;
 
 page = 0;
 _name = "";
