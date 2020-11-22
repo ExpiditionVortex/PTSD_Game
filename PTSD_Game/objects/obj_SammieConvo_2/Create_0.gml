@@ -7,6 +7,12 @@ textMessage[2] = "Sammie: ... got like fifteen Cal Zones...";
 textMessage[3] = "Rollen: They remind me...";
 textMessage[4] = "Rollen: They remind me of-";
 
+_reactions[0] = spr_ReactHappy;
+_reactions[1] = spr_ReactSad;
+_reactions[2] = spr_ReactHappy;
+_reactions[3] = spr_ReactSad;
+_reactions[4] = spr_ReactHappy;
+
 
 page = 0;
 _name = "";

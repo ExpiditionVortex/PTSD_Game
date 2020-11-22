@@ -7,6 +7,11 @@ textMessage[1] = "Rollen: Talking I.";
 textMessage[2] = "Therapist: Talking II.";
 textMessage[3] = "Rollen: Talking II.";
 
+_reactions[0] = spr_ReactSad;
+_reactions[1] = spr_ReactHappy;
+_reactions[2] = spr_ReactSad;
+_reactions[3] = spr_ReactHappy;
+
 page = 0;
 _name = "";
 

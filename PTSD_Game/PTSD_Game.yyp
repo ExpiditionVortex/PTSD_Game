@@ -79,6 +79,7 @@
     {"id":{"name":"obj_Email_RightArrow","path":"objects/obj_Email_RightArrow/obj_Email_RightArrow.yy",},"order":1,},
     {"id":{"name":"obj_officelamp1","path":"objects/obj_officelamp1/obj_officelamp1.yy",},"order":3,},
     {"id":{"name":"spr_ElectricityPipe","path":"sprites/spr_ElectricityPipe/spr_ElectricityPipe.yy",},"order":0,},
+    {"id":{"name":"spr_ReactHappy","path":"sprites/spr_ReactHappy/spr_ReactHappy.yy",},"order":0,},
     {"id":{"name":"obj_TherapistConvo2","path":"objects/obj_TherapistConvo2/obj_TherapistConvo2.yy",},"order":2,},
     {"id":{"name":"obj_border1","path":"objects/obj_border1/obj_border1.yy",},"order":0,},
     {"id":{"name":"spr_bedroom_stucco","path":"sprites/spr_bedroom_stucco/spr_bedroom_stucco.yy",},"order":14,},
@@ -104,6 +105,7 @@
     {"id":{"name":"obj_Bedroom_floor","path":"objects/obj_Bedroom_floor/obj_Bedroom_floor.yy",},"order":3,},
     {"id":{"name":"obj_Therapist","path":"objects/obj_Therapist/obj_Therapist.yy",},"order":3,},
     {"id":{"name":"obj_Num","path":"objects/obj_Num/obj_Num.yy",},"order":4,},
+    {"id":{"name":"spr_ReactSad","path":"sprites/spr_ReactSad/spr_ReactSad.yy",},"order":1,},
     {"id":{"name":"spr_GasUtil","path":"sprites/spr_GasUtil/spr_GasUtil.yy",},"order":4,},
     {"id":{"name":"spr_Sally","path":"sprites/spr_Sally/spr_Sally.yy",},"order":16,},
     {"id":{"name":"spr_officewall","path":"sprites/spr_officewall/spr_officewall.yy",},"order":8,},
@@ -354,6 +356,7 @@
     {"folderPath":"folders/Objects/Therapist/Standard?.yy","order":7,"resourceVersion":"1.0","name":"Standard?","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Work/Border.yy","order":17,"resourceVersion":"1.0","name":"Border","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Work/border_obj.yy","order":7,"resourceVersion":"1.0","name":"border_obj","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/TempReactions.yy","order":9,"resourceVersion":"1.0","name":"TempReactions","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},

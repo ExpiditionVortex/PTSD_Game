@@ -8,6 +8,11 @@ textMessage[1] = "Rollen: Convo Continues.";
 textMessage[2] = "Therapist: Convo Continues Pt. II.";
 textMessage[3] = "Rollen: Convo Continues Pt. II.";
 
+_reactions[0] = spr_ReactHappy;
+_reactions[1] = spr_ReactSad;
+_reactions[2] = spr_ReactHappy;
+_reactions[3] = spr_ReactSad;
+
 page = 0;
 _name = "";
 
