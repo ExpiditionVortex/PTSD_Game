@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-audio_stop_sound(oMusic_nervous);
+audio_stop_sound(Nervous);

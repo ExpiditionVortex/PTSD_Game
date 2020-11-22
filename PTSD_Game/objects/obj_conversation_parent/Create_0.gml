@@ -5,3 +5,4 @@ myTextBox = noone;
 myName = "";
 
 myText[0] = "";
+myReactions[0] = noone;
