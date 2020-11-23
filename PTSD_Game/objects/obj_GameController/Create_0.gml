@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+global.workMiniGameAttempts = 0;
+
 global.gameController = id;
 
 //the speed for the text display

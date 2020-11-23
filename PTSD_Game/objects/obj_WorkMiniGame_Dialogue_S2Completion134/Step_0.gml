@@ -13,10 +13,7 @@ var _messageLength =  string_length(textMessage[page]);
 	if(textProgress >= _messageLength)
 	{
 		if(page+1 == array_length_1d(textMessage))
-		{
-			global.playerID.canControl = true;
-			global.playerID.inCutscene = false;
-			
+		{			
 			instance_destroy();
 		}//need to reset these values to repeat the text expanding effects
 		else if(page+1 < array_length_1d(textMessage))

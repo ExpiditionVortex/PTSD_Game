@@ -2,18 +2,8 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-
-if (!global.gameController.canWork)
-{
-	instance_destroy();
-}
-
-textMessage[0] = "Shit. I slept in longer then I expected too. I've only got six hours to get those contract gigs in for work.";
+textMessage[0] = "Okay, okay. One contract down. Pat on the back.";
 _reactions[0] = noone;
-
-textMessage[1] = "Working from home is hard and oddly exhausting, but at least I get to work in my own space.";
-_reactions[1] = noone;
-
 
 page = 0;
 _name = "";

@@ -5,6 +5,9 @@
 //other.IsSelected = false;
 
 // Checks if the pipe is gas, water, or electricity.
+
+//otherPipeList
+
 switch (global.workController.currPipeObj.utilityType)
 {
 	// Gas Case
