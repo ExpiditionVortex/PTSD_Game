@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Rollens_Nightmares_Chase.mp3",
-  "duration": 32.8147964,
+  "duration": 2052.89,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

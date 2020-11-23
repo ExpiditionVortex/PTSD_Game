@@ -1,12 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-textMessage[0] = "Sammie: Hey!";
+textMessage[0] = "Sallie: Hey!";
 textMessage[1] = "Rollen: Whats up?";
-textMessage[2] = "Sammie: I've been banging my head against the wall all day to solve this problem.";
+textMessage[2] = "Sallie: I've been banging my head against the wall all day to solve this problem.";
 textMessage[3] = "Rollen: Any luck?";
-textMessage[4] = "Sammie: Nope.";
-textMessage[5] = "Sammie: How is that new contract gig coming along?";
+textMessage[4] = "Sallie: Nope.";
+textMessage[5] = "Sallie: How is that new contract gig coming along?";
 textMessage[6] = "Rollen: It has its ups and downs.";
 
 _reactions[0] = spr_ReactHappy;
