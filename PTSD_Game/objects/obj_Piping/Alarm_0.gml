@@ -10,6 +10,7 @@ if (IsActive)
 // 3 = Down
 
 ds_list_add(list, id);
+global.otherPipeList = list;
 	
 	switch(global.workController.dir)
 	{

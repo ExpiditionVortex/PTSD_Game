@@ -7,6 +7,9 @@
 // 2 = Up
 // 3 = Down
 
+global.otherPipeList = ds_list_create();
+
+
 global.workController = id;
 
 dir = 0;
@@ -16,7 +19,7 @@ global.isDrawing = false;
 
 //currPipeList = ds_list_create();
 currPipeList = ds_list_create();
-ds_list_clear(currPipeList);
+//ds_list_clear(currPipeList);
 
 currPipeObj = pointer_null;
 
