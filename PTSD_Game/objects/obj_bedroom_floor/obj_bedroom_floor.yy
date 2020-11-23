@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Standard",
-    "path": "folders/Objects/Bedroom/Standard.yy",
+    "name": "General",
+    "path": "folders/Objects/Bedroom/Standard/General.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_Bedroom_floor",

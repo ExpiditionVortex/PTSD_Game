@@ -1,13 +1,13 @@
 {
-  "spriteId": {
-    "name": "spr_bedroom_door",
-    "path": "sprites/spr_bedroom_door/spr_bedroom_door.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oText",
+    "path": "objects/oText/oText.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Dialogue_RollenIntro","path":"objects/obj_Dialogue_RollenIntro/obj_Dialogue_RollenIntro.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "General",
-    "path": "folders/Objects/Bedroom/Standard/General.yy",
+    "name": "Dialogue",
+    "path": "folders/Objects/Bedroom/Standard/Dialogue.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Bedroom_door",
+  "name": "obj_Dialogue_RollenIntro",
   "tags": [],
   "resourceType": "GMObject",
 }
