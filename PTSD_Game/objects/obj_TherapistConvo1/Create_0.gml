@@ -5,6 +5,10 @@
 
 textMessage[0] = "Therapist: Hey! Good to see you Rollen.";
 textMessage[1] = "Therapist: Just get comortable, and we will start whenever you are ready.";
+
+_reactions[0] = spr_ReactHappy;
+_reactions[1] = spr_ReactSad;
+
 //textMessage[1] = "Rollen: Thanks";
 page = 0;
 _name = "";

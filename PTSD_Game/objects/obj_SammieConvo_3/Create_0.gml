@@ -15,6 +15,20 @@ textMessage[10] = "Sammie: Already? You just got here.";
 textMessage[11] = "Rollen: I know, I'm sorry.";
 textMessage[12] = "Rollen: I just-";
 
+_reactions[0] = spr_ReactHappy;
+_reactions[1] = spr_ReactSad;
+_reactions[2] = spr_ReactHappy;
+_reactions[3] = spr_ReactSad;
+_reactions[4] = spr_ReactHappy;
+_reactions[5] = spr_ReactSad;
+_reactions[6] = spr_ReactHappy;
+_reactions[7] = spr_ReactHappy;
+_reactions[8] = spr_ReactSad;
+_reactions[9] = spr_ReactHappy;
+_reactions[10] = spr_ReactSad;
+_reactions[11] = spr_ReactHappy;
+_reactions[12] = spr_ReactSad;
+
 
 page = 0;
 _name = "";

@@ -18,7 +18,9 @@ if (canTalk)
 				{
 					myTextBox = instance_create_layer(x, y,"Instances",oText);
 					myTextBox.textMessage = myText;
+					
 					myTextBox._name = myName; 
+					myTextBox._reactions = myReactions;
 				
 					myTextBox.x = x;
 					myTextBox.y = y;
@@ -48,7 +50,9 @@ if (canTalk)
 					myTextBox = instance_create_layer(xNew, yNew, "Instances", oText);
 					myTextBox.spawnAtCurrLoc = false;
 					myTextBox.textMessage = myText;
+					
 					myTextBox._name = myName;
+					myTextBox._reactions = myReactions;
 					
 					obj_Player.inCutscene = true;
 				}
@@ -79,8 +83,10 @@ if (canTalk)
 					{
 						myTextBox = instance_create_layer(x, y,"Instances",oText);
 						myTextBox.textMessage = myText;
+						
 						myTextBox._name = myName; 
-					
+						myTextBox._reactions = myReactions;
+						
 						myTextBox.x = x;
 						myTextBox.y = y;
 						
@@ -112,7 +118,9 @@ if (canTalk)
 						myTextBox = instance_create_layer(xNew, yNew, "Instances", oText);
 						myTextBox.spawnAtCurrLoc = false;
 						myTextBox.textMessage = myText;
+						
 						myTextBox._name = myName;
+						myTextBox._reactions = myReactions;
 						
 						obj_Player.inCutscene = true;
 					}

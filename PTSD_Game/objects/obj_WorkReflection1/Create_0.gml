@@ -3,6 +3,8 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 textMessage[0] = "Reflection 1!";
+_reactions[0] = spr_ReactSad;
+
 page = 0;
 _name = "";
 
