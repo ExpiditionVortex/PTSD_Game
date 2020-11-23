@@ -16,9 +16,9 @@ if (global.coffeeShopStage == 1)
 	
 	show_debug_message(path_position);
 	
-		if (path_position == 1 && !instance_exists(obj_SammieConvo_2))
+		if (path_position == 1 && !instance_exists(obj_SallieConvo_2))
 		{
-			instance_activate_object(obj_SammieConvo_2);
+			instance_activate_object(obj_SallieConvo_2);
 		}
 }
 
