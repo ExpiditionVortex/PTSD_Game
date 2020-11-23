@@ -4,7 +4,7 @@
     "path": "sprites/spr_Border/spr_Border.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

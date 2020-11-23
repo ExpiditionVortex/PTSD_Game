@@ -5,5 +5,6 @@ myTextBox = noone;
 myName = "";
 
 myText[0] = "Temp";
+myReactions[0] = spr_ReactHappy;
 
 initialized = false;
