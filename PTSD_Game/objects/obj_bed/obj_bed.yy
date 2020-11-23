@@ -3,7 +3,7 @@
     "name": "spr_bed",
     "path": "sprites/spr_bed/spr_bed.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Backpack",
-    "path": "sprites/spr_Backpack/spr_Backpack.yy",
+    "name": "spr_Door_Bedroom",
+    "path": "sprites/spr_Door_Bedroom/spr_Door_Bedroom.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"parent":{"name":"obj_Backpack","path":"objects/obj_Backpack/obj_Backpack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"parent":{"name":"obj_Door_Bedroom","path":"objects/obj_Door_Bedroom/obj_Door_Bedroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Door_Bedroom","path":"objects/obj_Door_Bedroom/obj_Door_Bedroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +31,7 @@
     "path": "folders/Objects/Bedroom/Standard.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Backpack",
+  "name": "obj_Door_Bedroom",
   "tags": [],
   "resourceType": "GMObject",
 }
