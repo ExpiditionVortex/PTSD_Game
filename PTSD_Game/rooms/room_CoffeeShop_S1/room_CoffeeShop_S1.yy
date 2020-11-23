@@ -15,8 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Jax","path":"objects/obj_Jax/obj_Jax.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":896.0,"resourceVersion":"1.0","name":"inst_452D4D3C","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Fiero","path":"objects/obj_Fiero/obj_Fiero.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":64.0,"resourceVersion":"1.0","name":"inst_763EB5D6","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Lisa","path":"objects/obj_Lisa/obj_Lisa.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":96.0,"resourceVersion":"1.0","name":"inst_12B1BF47","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Fiero","path":"objects/obj_Fiero/obj_Fiero.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":96.0,"resourceVersion":"1.0","name":"inst_763EB5D6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Sally","path":"objects/obj_Sally/obj_Sally.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":80.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_CF89313","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Dumpy","path":"objects/obj_Dumpy/obj_Dumpy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":1120.0,"resourceVersion":"1.0","name":"inst_19525445","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Marven","path":"objects/obj_Marven/obj_Marven.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":672.0,"resourceVersion":"1.0","name":"inst_70619D4C","tags":[],"resourceType":"GMRInstance",},
@@ -56,6 +55,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Coffee_Maker","path":"objects/obj_Coffee_Maker/obj_Coffee_Maker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":192.0,"resourceVersion":"1.0","name":"inst_788E536C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Blender","path":"objects/obj_Blender/obj_Blender.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":352.0,"resourceVersion":"1.0","name":"inst_3DC220A7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Food_Case","path":"objects/obj_Food_Case/obj_Food_Case.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":352.0,"resourceVersion":"1.0","name":"inst_226579BC","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Lisa","path":"objects/obj_Lisa/obj_Lisa.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":96.0,"resourceVersion":"1.0","name":"inst_12B1BF47","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_InFront_Table","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_CSwalls","path":"objects/obj_CSwalls/obj_CSwalls.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.61439991,"scaleY":1.62528753,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2BC4A8E8","tags":[],"resourceType":"GMRInstance",},
@@ -208,7 +208,6 @@
   "instanceCreationOrder": [
     {"name":"inst_452D4D3C","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_763EB5D6","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
-    {"name":"inst_12B1BF47","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_CF89313","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_19525445","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_70619D4C","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
@@ -379,6 +378,7 @@
     {"name":"inst_5173A745","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_39D5DAFB","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
     {"name":"inst_B7AF726","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
+    {"name":"inst_12B1BF47","path":"rooms/room_CoffeeShop_S1/room_CoffeeShop_S1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
