@@ -14,6 +14,12 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[
+            {"propertyId":{"name":"sound","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"value":"Rollens_Nightmares_Chase","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"onRoomEnd","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":96.0,"resourceVersion":"1.0","name":"inst_49B91D1F","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":-100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"GameController","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Jax","path":"objects/obj_Jax/obj_Jax.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":896.0,"resourceVersion":"1.0","name":"inst_452D4D3C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Fiero","path":"objects/obj_Fiero/obj_Fiero.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":64.0,"resourceVersion":"1.0","name":"inst_763EB5D6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Lisa","path":"objects/obj_Lisa/obj_Lisa.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":96.0,"resourceVersion":"1.0","name":"inst_12B1BF47","tags":[],"resourceType":"GMRInstance",},
@@ -379,6 +385,7 @@
     {"name":"inst_5261F4E1","path":"rooms/room_CoffeeShop_S3/room_CoffeeShop_S3.yy",},
     {"name":"inst_5173A745","path":"rooms/room_CoffeeShop_S3/room_CoffeeShop_S3.yy",},
     {"name":"inst_6B653C01","path":"rooms/room_CoffeeShop_S3/room_CoffeeShop_S3.yy",},
+    {"name":"inst_49B91D1F","path":"rooms/room_CoffeeShop_S3/room_CoffeeShop_S3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
