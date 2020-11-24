@@ -4,7 +4,7 @@
 textMessage[0] = "Sallie: You okay?";
 textMessage[1] = "Rollen: What?";
 textMessage[2] = "Sallie: You okay?";
-textMessage[3] = "Rollen: Yeah... yeah I'm okay";
+textMessage[3] = "Rollen: Yeah... yeah I'm okay.";
 textMessage[4] = "Sallie: You kinda dissapeared on me for a minute there.";
 textMessage[5] = "Rollen: Yeah... no I'm sorry.";
 textMessage[6] = "Sallie: You know if you need to talk, I'm here to listen.";
