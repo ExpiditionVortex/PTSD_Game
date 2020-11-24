@@ -6,20 +6,20 @@ myName = "";
 
 i = 0;
 
-myText[i] = "Rollen: Even with that red sweater, she appeared like an angel. That's what terrified me.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "Even with that red sweater, she appeared like an angel. That's what terrified me.";
+myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "Rollen: No matter what I do, no matter how far I go. There's always something to remind me of her.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "No matter what I do, no matter how far I go. There's always something to remind me of her.";
+myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "Rollen: And in many ways, I still care about her. It's twisted, I shouldn't after everything she did to me.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "And in many ways, I still care about her. It's twisted, I shouldn't after everything she did to me.";
+myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "Rollen: But I can't... I just can't...";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "But I can't... I just can't...";
+myReactions[i] = spr_Reaction_Rollen_Cracks_2;
 i++;
 
 initialized = false;

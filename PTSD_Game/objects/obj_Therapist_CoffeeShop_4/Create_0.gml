@@ -6,36 +6,36 @@ myName = "";
 
 i = 0;
 
-myText[i] = "Rollen: The irony in it all, the coffee shop was supposed to be my safe space.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "The irony in it all, the coffee shop was supposed to be my safe space.";
+myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "Rollen: And now, that feels oddly... violated.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "And now, that feels oddly... violated.";
+myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "Therapist: You probably associate it with Sarah because of this incident.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "You probably associate it with Sarah because of this incident.";
+myReactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
-myText[i] = "Therapist: And that makes you anxious and uncomfortable.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "And that makes you anxious and uncomfortable.";
+myReactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
-myText[i] = "Therapist: You may have a subconcious fear now that she will appear there";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "You may have a subconcious fear now that she will appear there";
+myReactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
-myText[i] = "Therapist: a thought that had never occured to you before.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "a thought that had never occured to you before.";
+myReactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
-myText[i] = "Therapist: Try to remember why you always feel welcomed there.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "Try to remember why you always feel welcomed there.";
+myReactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
-myText[i] = "Therapist: Try to focus on those aspects every time you visit.";
-myReactions[i] = spr_ReactHappy;
+myText[i] = "Try to focus on those aspects every time you visit.";
+myReactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
 initialized = false;
