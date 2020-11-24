@@ -20,6 +20,7 @@
         {"properties":[
             {"propertyId":{"name":"sound","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"objectId":{"name":"obj_SoundPlayer","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"value":"Coffee_Shop","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_SoundPlayer","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":96.0,"resourceVersion":"1.0","name":"inst_5AD877C2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_RollenEnterance","path":"objects/obj_RollenEnterance/obj_RollenEnterance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":1248.0,"resourceVersion":"1.0","name":"inst_1CE3221F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":-100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"GameControllers","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Jax","path":"objects/obj_Jax/obj_Jax.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":896.0,"resourceVersion":"1.0","name":"inst_452D4D3C","tags":[],"resourceType":"GMRInstance",},
@@ -88,6 +89,7 @@
         {"properties":[
             {"propertyId":{"name":"moveLoc","path":"objects/obj_Player/obj_Player.yy",},"objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"value":"obj_PlayerSeat_CS","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"nextRoom","path":"objects/obj_Player/obj_Player.yy",},"objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"value":"room_CoffeeShop_S1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"inCutscene","path":"objects/obj_Player/obj_Player.yy",},"objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":160.0,"resourceVersion":"1.0","name":"inst_718CA510","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TriggerPerson","path":"objects/obj_TriggerPerson/obj_TriggerPerson.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":160.0,"resourceVersion":"1.0","name":"inst_4D661087","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_61D10C9B","tags":[],"resourceType":"GMRInstance",},
@@ -385,6 +387,7 @@
     {"name":"inst_6551866B","path":"rooms/room_CoffeeShop_S0/room_CoffeeShop_S0.yy",},
     {"name":"inst_5AD877C2","path":"rooms/room_CoffeeShop_S0/room_CoffeeShop_S0.yy",},
     {"name":"inst_255B1FEB","path":"rooms/room_CoffeeShop_S0/room_CoffeeShop_S0.yy",},
+    {"name":"inst_1CE3221F","path":"rooms/room_CoffeeShop_S0/room_CoffeeShop_S0.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

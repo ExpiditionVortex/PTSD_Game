@@ -191,6 +191,7 @@
     {"id":{"name":"obj_SallieConvo_2","path":"objects/obj_SallieConvo_2/obj_SallieConvo_2.yy",},"order":2,},
     {"id":{"name":"Menu","path":"sounds/Menu/Menu.yy",},"order":2,},
     {"id":{"name":"SPR_textRose","path":"sprites/SPR_textRose/SPR_textRose.yy",},"order":3,},
+    {"id":{"name":"obj_RollenEnterance","path":"objects/obj_RollenEnterance/obj_RollenEnterance.yy",},"order":3,},
     {"id":{"name":"spr_Brock","path":"sprites/spr_Brock/spr_Brock.yy",},"order":2,},
     {"id":{"name":"obj_chairfront","path":"objects/obj_chairfront/obj_chairfront.yy",},"order":1,},
     {"id":{"name":"obj_MG","path":"objects/obj_MG/obj_MG.yy",},"order":12,},
