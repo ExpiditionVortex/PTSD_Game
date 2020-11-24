@@ -11,6 +11,6 @@ myTextBox = noone;
 myName = "Rollen: ";
 
 myText[0] = "Sometimes the world buries me in so many responsibilities, I don't even know what to do.";
-myReactions[0] = spr_ReactSad;
+myReactions[0] = spr_Reaction_Rollen_Cracks_1;
 
 initialized = false;

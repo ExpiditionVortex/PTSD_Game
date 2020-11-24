@@ -5,24 +5,24 @@
 
 i = 0;
 
-textMessage[i] = "Rollen: My boss needed me to do something that I don't normally do.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "My boss needed me to do something that I don't normally do.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
-textMessage[i] = "Rollen: It was fine at first, easy even; It made me feel really productive.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "It was fine at first, easy even; It made me feel really productive.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
-textMessage[i] = "Rollen: But after the first task, everything got much harder.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "But after the first task, everything got much harder.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
-textMessage[i] = "Rollen: I couldn't focus, and every mistake made me feel more and more useless.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "I couldn't focus, and every mistake made me feel more and more useless.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
-textMessage[i] = "Rollen: I just felt really overwhelmed.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "I just felt really overwhelmed.";
+_reactions[i] = spr_Reaction_Rollen_Bumbed;
 i++;
 
 page = 0;

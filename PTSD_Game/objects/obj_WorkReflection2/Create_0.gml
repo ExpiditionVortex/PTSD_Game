@@ -5,28 +5,28 @@
 
 i = 0;
 
-textMessage[i] = "Therapist: The cognitive weight of stressful activies can have a great impact on";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "The cognitive weight of stressful activies can have a great impact on";
+_reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: how you feel the rest of the day.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "How did you feel the rest of the day.";
+_reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: It is very common for people like you who struggle with PTSD.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "It is very common for people like you who struggle with PTSD.";
+_reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: Try to remember that your worth is not tied to how productive you are.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Try to remember that your worth is not tied to how productive you are.";
+_reactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
-textMessage[i] = "Therapist: For you, success can come from the little things like getting something done";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "For you, success can come from the little things like getting something done";
+_reactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
-textMessage[i] = "Therapist: and there is nothing to be ashamed of in that.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "and there is nothing to be ashamed of in that.";
+_reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
 i++;
 
 page = 0;

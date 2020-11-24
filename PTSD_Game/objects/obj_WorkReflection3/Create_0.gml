@@ -5,32 +5,32 @@
 
 i = 0;
 
-textMessage[i] = "Therapist: What happened after work?";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "What happened after work?";
+_reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Rollen: Well, my friend Sallie ended up wanted to hang out.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Well, my friend Sallie ended up wanted to hang out.";
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++;
 
-textMessage[i] = "Rollen: We haven't hung out in awhile and so even though my batteries were kind of drained";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "We haven't hung out in awhile and so even though my batteries were kind of drained";
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++;
 
-textMessage[i] = "Rollen: I knew it would be good to talk to her.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "I knew it would be good to talk to her.";
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++;
 
-textMessage[i] = "Therapist: Socializing and talking about your days can help you heal and cope with your daily struggles.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Socializing and talking about your days can help you heal and cope with your daily struggles.";
+_reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Rollen: Yeah, that's what I was thinking.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Yeah, that's what I was thinking.";
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++;
 
-textMessage[i] = "Rollen: It was really good to talk to her, but it was cut short because of the incident.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "It was really good to talk to her, but it was cut short because of the incident.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
 page = 0;
