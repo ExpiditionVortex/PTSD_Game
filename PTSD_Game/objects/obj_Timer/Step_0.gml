@@ -1,5 +1,23 @@
+var timeLeft = alarm[0] div room_speed;
+
+if (timeLeft == 30 && !thirtyMinMark)
+{
+	instance_create_layer(960, 960, "GameController", obj_WorkMiniGame_TimerDialogue_30Minutes);
+	thirtyMinMark = true;
+}
+else if (timeLeft == 60 && !oneHourMark)
+{
+	instance_create_layer(960, 960, "GameController", obj_WorkMiniGame_TimerDialogue_1Hour);
+	oneHourMark = true;
+}
+else if (timeLeft == 120 && !twoHourMark)
+{
+	instance_create_layer(960, 960, "GameController", obj_WorkMiniGame_TimerDialogue_2Hours);
+	twoHourMark = true;
+}
+
 // Setting current time.
-var currTime = date_inc_minute(clockoutTime, -(alarm[0] div room_speed));
+var currTime = date_inc_minute(clockoutTime, -timeLeft);
 
 var currTimeString;
 var isAM;

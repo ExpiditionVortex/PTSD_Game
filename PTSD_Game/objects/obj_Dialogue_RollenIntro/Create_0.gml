@@ -3,17 +3,28 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 
-if (!global.gameController.canWork)
-{
-	instance_destroy();
-}
+//if (!global.gameController.canWork)
+//{
+//	instance_destroy();
+//}
 
-textMessage[0] = "Shit. I slept in longer then I expected too. I've only got six hours to get those contract gigs in for work.";
+textMessage[0] = "What time is it?";
 _reactions[0] = noone;
 
-textMessage[1] = "Working from home is hard and oddly exhausting, but at least I get to work in my own space.";
+textMessage[1] = "Oh, it's noon.";
 _reactions[1] = noone;
 
+textMessage[2] = "WAIT. SHIT. IT'S NOON.";
+_reactions[2] = noone;
+
+textMessage[2] = "No no no no. That only leaves me...";
+_reactions[2] = noone;
+
+textMessage[3] = "Five hours to get the contract gig done. God...";
+_reactions[3] = noone;
+
+textMessage[4] = "Okay. It's okay. One step at a time.";
+_reactions[4] = noone;
 
 page = 0;
 _name = "";

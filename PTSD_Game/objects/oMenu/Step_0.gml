@@ -32,8 +32,8 @@ if ( menu_control)
 if((menu_x > gui_width + 150) && (menu_committed != -1))
 {
 	switch(menu_committed)
-	{	//go to the room_bedroom
-		case 2: room_goto(room_Bedroom); audio_stop_sound(Menu); break;
+	{	// Start the game
+		case 2: room_goto(room_InBed); break;
 		case 1:
 		// create a new dialogue box
 		if(myTextBox == noone)

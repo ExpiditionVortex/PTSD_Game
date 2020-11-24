@@ -22,6 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_TimerDialogue_TimesUp","path":"objects/obj_WorkMiniGame_TimerDialogue_TimesUp/obj_WorkMiniGame_TimerDialogue_TimesUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_TimerDialogue_TimesUp","path":"objects/obj_WorkMiniGame_TimerDialogue_TimesUp/obj_WorkMiniGame_TimerDialogue_TimesUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

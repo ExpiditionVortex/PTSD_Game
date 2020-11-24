@@ -5,6 +5,9 @@
 textMessage[0] = "I'm out of time.";
 _reactions[0] = noone;
 
+textMessage[1] = "I could work on this another 5 hours and not finish. I might as well just call it a day.";
+_reactions[1] = noone;
+
 page = 0;
 _name = "";
 

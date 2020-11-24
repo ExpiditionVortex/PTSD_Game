@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_Dialogue_S2Completion134","path":"objects/obj_WorkMiniGame_Dialogue_S2Completion134/obj_WorkMiniGame_Dialogue_S2Completion134.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_Dialogue_S2Completion134","path":"objects/obj_WorkMiniGame_Dialogue_S2Completion134/obj_WorkMiniGame_Dialogue_S2Completion134.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_Dialogue_S2Completion","path":"objects/obj_WorkMiniGame_Dialogue_S2Completion/obj_WorkMiniGame_Dialogue_S2Completion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_WorkMiniGame_Dialogue_S2Completion","path":"objects/obj_WorkMiniGame_Dialogue_S2Completion/obj_WorkMiniGame_Dialogue_S2Completion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Work/Dialogue.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_WorkMiniGame_Dialogue_S2Completion134",
+  "name": "obj_WorkMiniGame_Dialogue_S2Completion",
   "tags": [],
   "resourceType": "GMObject",
 }
