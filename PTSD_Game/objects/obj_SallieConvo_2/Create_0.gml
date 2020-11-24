@@ -3,19 +3,31 @@
 
 i = 0;
 
-textMessage[i] = "Rollen: Hey, what's up.";
+textMessage[i] = "Sammie: So I was at S Mart yesterday...";
 _reactions[i] = spr_ReactHappy;
 i++;
 
-textMessage[i] = "Sallie: Hey! Long time no see.";
+textMessage[i] = "Rollen: That person that just entered...";
 _reactions[i] = spr_ReactHappy;
 i++;
 
-textMessage[i] = "Rollen: I can't say super long. Like I said, I've got a doctor's appointment later.";
+textMessage[i] = "Sallie: ... got like fifteen Cal Zones...";
 _reactions[i] = spr_ReactHappy;
 i++;
 
-textMessage[i] = "Sallie: You're good. I've got a busy schedule myself.";
+textMessage[i] = "Rollen: No, it can't be.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Rollen: They look so much like...";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Rollen: ...";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Rollen: I gotta get out of here. I gotta get out of here.";
 _reactions[i] = spr_ReactHappy;
 i++;
 
