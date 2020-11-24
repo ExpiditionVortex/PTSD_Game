@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Therapist",
-    "path": "sprites/spr_Therapist/spr_Therapist.yy",
+    "name": "Anivia_Idle",
+    "path": "sprites/Anivia_Idle/Anivia_Idle.yy",
   },
   "solid": false,
   "visible": true,

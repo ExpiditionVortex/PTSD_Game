@@ -2,8 +2,28 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-textMessage[0] = "Reflection 1!";
-_reactions[0] = spr_ReactSad;
+
+i = 0;
+
+textMessage[i] = "My boss needed me to do something that I don't normally do.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
+i++;
+
+textMessage[i] = "It was fine at first, easy even; It made me feel really productive.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
+i++;
+
+textMessage[i] = "But after the first task, everything got much harder.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
+i++;
+
+textMessage[i] = "I couldn't focus, and every mistake made me feel more and more useless.";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
+i++;
+
+textMessage[i] = "I just felt really overwhelmed.";
+_reactions[i] = spr_Reaction_Rollen_Bumbed;
+i++;
 
 page = 0;
 _name = "";

@@ -14,29 +14,29 @@ switch (global.workController.currPipeObj.utilityType)
 		{
 			if (other.IsActive)
 			{
-				for (i = 0; i < ds_list_size(other.list); i += 1)
+				for (i = 0; i < ds_list_size(global.otherPipeList); i += 1)
 				{
-					var obj = ds_list_find_value(other.list, i);
+					var obj = ds_list_find_value(global.otherPipeList, i);
 					if (obj.IsActive)
 					{
 						instance_destroy(obj);
 					}
 				}
 				
-				ds_list_clear(other.list);
-				ds_list_destroy(other.list);
+				ds_list_clear(global.otherPipeList);
+				ds_list_destroy(global.otherPipeList);
 				instance_destroy(other);
 			}
 		}
 		else
 		{
-			for (var i = 0; i < ds_list_size(other.list); i++)
+			for (var i = 0; i < ds_list_size(global.otherPipeList); i++)
 			{
-				var obj = ds_list_find_value(other.list, i);
+				var obj = ds_list_find_value(global.otherPipeList, i);
 				obj.IsActive = false;
 			}
 		
-			ds_list_delete(other.list, ds_list_size(other.list));
+			ds_list_delete(global.otherPipeList, ds_list_size(global.otherPipeList));
 			
 			hasGas = true;
 			if (therapistLevel)
@@ -52,29 +52,29 @@ switch (global.workController.currPipeObj.utilityType)
 		{
 			if (other.IsActive)
 			{
-				for (i = 0; i < ds_list_size(other.list); i += 1)
+				for (i = 0; i < ds_list_size(global.otherPipeList); i += 1)
 				{
-					var obj = ds_list_find_value(other.list, i);
+					var obj = ds_list_find_value(global.otherPipeList, i);
 					if (obj.IsActive)
 					{
 						instance_destroy(obj);
 					}
 				}
 				
-				ds_list_clear(other.list);
-				ds_list_destroy(other.list);
+				ds_list_clear(global.otherPipeList);
+				ds_list_destroy(global.otherPipeList);
 				instance_destroy(other);
 			}
 		}
 		else
 		{
-			for (var i = 0; i < ds_list_size(other.list); i++)
+			for (var i = 0; i < ds_list_size(global.otherPipeList); i++)
 			{
-				var obj = ds_list_find_value(other.list, i);
+				var obj = ds_list_find_value(global.otherPipeList, i);
 				obj.IsActive = false;
 			}
 		
-			ds_list_delete(other.list, ds_list_size(other.list));
+			ds_list_delete(global.otherPipeList, ds_list_size(global.otherPipeList));
 			
 			hasWater = true;
 			if (therapistLevel)
@@ -90,32 +90,32 @@ switch (global.workController.currPipeObj.utilityType)
 		{
 			if (other.IsActive)
 			{
-				for (i = 0; i < ds_list_size(other.list); i += 1)
+				for (i = 0; i < ds_list_size(global.otherPipeList); i += 1)
 				{
-					var obj = ds_list_find_value(other.list, i);
+					var obj = ds_list_find_value(global.otherPipeList, i);
 					if (obj.IsActive)
 					{
 						instance_destroy(obj);
 					}
 				}
 				
-				ds_list_clear(other.list);
-				ds_list_destroy(other.list);
+				ds_list_clear(global.otherPipeList);
+				ds_list_destroy(global.otherPipeList);
 				instance_destroy(other);
 			}
 		}
 		else
 		{
 			
-			//show_message(ds_list_size(other.list))
+			//show_message(ds_list_size(global.otherPipeList))
 			
-			for (var i = 0; i < ds_list_size(other.list); i++)
+			for (var i = 0; i < ds_list_size(global.otherPipeList); i++)
 			{
-				var obj = ds_list_find_value(other.list, i);
+				var obj = ds_list_find_value(global.otherPipeList, i);
 				obj.IsActive = false;
 			}
 		
-			ds_list_delete(other.list, ds_list_size(other.list));
+			ds_list_delete(global.otherPipeList, ds_list_size(global.otherPipeList));
 			
 			hasElectricity = true;
 			if (therapistLevel)

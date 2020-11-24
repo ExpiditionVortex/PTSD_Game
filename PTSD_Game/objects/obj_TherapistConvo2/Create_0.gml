@@ -3,15 +3,35 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 
-textMessage[0] = "Therapist: Convo Continues.";
-textMessage[1] = "Rollen: Convo Continues.";
-textMessage[2] = "Therapist: Convo Continues Pt. II.";
-textMessage[3] = "Rollen: Convo Continues Pt. II.";
+i = 0;
 
-_reactions[0] = spr_ReactHappy;
-_reactions[1] = spr_ReactSad;
-_reactions[2] = spr_ReactHappy;
-_reactions[3] = spr_ReactSad;
+textMessage[i] = "Take a couple breaths, in and out slowly; you look a little stressed.";
+_reactions[i] = spr_Reaction_Therapist_Slight_Concern;
+i++;
+
+textMessage[i] = "In.... and out....";
+_reactions[i] = spr_Reaction_Therapist_Writing;
+i++;
+
+textMessage[i] = "There you go. Looking better already.";
+_reactions[i] = spr_Reaction_Therapist_Slight_Smile;
+i++;
+
+textMessage[i] = "Thank you.";
+_reactions[i] = spr_Reaction_Rollen_Concerned;
+i++;
+
+textMessage[i] = "The floor is yours. Whenever your ready.";
+_reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
+i++;
+
+textMessage[i] = "...";
+_reactions[i] = spr_Reaction_Rollen_Concerned;
+i++;
+
+textMessage[i] = "Rollen: Today was rough. It started the moment my alarm went off...";
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
+i++;
 
 page = 0;
 _name = "";

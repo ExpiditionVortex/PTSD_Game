@@ -135,3 +135,6 @@ if (canTalk)
 		}
 	}
 }
+
+if (alreadyTalked)
+	sprite_index = spr_Computer;

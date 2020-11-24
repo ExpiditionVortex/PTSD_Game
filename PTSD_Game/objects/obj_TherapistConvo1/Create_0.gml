@@ -3,11 +3,15 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 
-textMessage[0] = "Therapist: Hey! Good to see you Rollen.";
-textMessage[1] = "Therapist: Just get comortable, and we will start whenever you are ready.";
+i = 0;
 
-_reactions[0] = spr_ReactHappy;
-_reactions[1] = spr_ReactSad;
+textMessage[i] = "Sorry I'm late. I had another incident.";
+_reactions[i] = spr_Reaction_Rollen_Cracks_1;
+i++;
+
+textMessage[i] = "Not a problem, Rollen. Come take a seat.";
+_reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
+i++;
 
 //textMessage[1] = "Rollen: Thanks";
 page = 0;
