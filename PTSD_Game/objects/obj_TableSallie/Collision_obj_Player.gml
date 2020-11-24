@@ -5,4 +5,7 @@ if (global.coffeeShopStage == 0)
 	other.canControl = false;
 	other.xprevious = other.x;
 	other.yprevious = other.y;
+	
+	sprite_index = spr_TableSallie;
+	highlighted = false;
 }

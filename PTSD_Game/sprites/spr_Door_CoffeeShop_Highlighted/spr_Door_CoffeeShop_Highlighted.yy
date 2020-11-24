@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3bea736c-de8d-4355-89cf-520ce98cdbb5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "PTSD_Game",
+    "path": "PTSD_Game.yyp",
   },
   "resourceVersion": "1.0",
   "name": "spr_Door_CoffeeShop_Highlighted",

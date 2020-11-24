@@ -20,15 +20,19 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
-  "properties": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Bedroom_door_legacy","path":"objects/obj_Bedroom_door_legacy/obj_Bedroom_door_legacy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"highlighted","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "General",
     "path": "folders/Objects/Bedroom/Standard/General.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Bedroom_door",
+  "name": "obj_Bedroom_door_legacy",
   "tags": [],
   "resourceType": "GMObject",
 }
