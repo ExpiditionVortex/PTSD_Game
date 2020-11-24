@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 44,
-  "bbox_right": 83,
-  "bbox_top": 8,
-  "bbox_bottom": 120,
+  "bbox_left": 0,
+  "bbox_right": 63,
+  "bbox_top": 0,
+  "bbox_bottom": 127,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
+  "width": 64,
   "height": 128,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f90b7fd6-beb2-45e5-8163-c31230f326a8","path":"sprites/spr_Therapist/spr_Therapist.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f90b7fd6-beb2-45e5-8163-c31230f326a8","path":"sprites/spr_Therapist/spr_Therapist.yy",},"LayerId":{"name":"922d32ef-e34b-4da4-8615-dd2aae849b45","path":"sprites/spr_Therapist/spr_Therapist.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_Therapist","path":"sprites/spr_Therapist/spr_Therapist.yy",},"resourceVersion":"1.0","name":"f90b7fd6-beb2-45e5-8163-c31230f326a8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4c87510c-592b-4992-9a2d-257341e12b11","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4c87510c-592b-4992-9a2d-257341e12b11","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},"LayerId":{"name":"eb70087e-d499-4dfb-96ef-0aac948855a2","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Therapist0","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},"resourceVersion":"1.0","name":"4c87510c-592b-4992-9a2d-257341e12b11","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_Therapist","path":"sprites/spr_Therapist/spr_Therapist.yy",},
+    "spriteId": {"name":"spr_Therapist0","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a76b7ab1-2cb9-4234-b3f4-35db59dce26b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f90b7fd6-beb2-45e5-8163-c31230f326a8","path":"sprites/spr_Therapist/spr_Therapist.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5dc9a6d2-c8c0-4646-a581-a26733d8a052","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c87510c-592b-4992-9a2d-257341e12b11","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_Therapist","path":"sprites/spr_Therapist/spr_Therapist.yy",},
+    "parent": {"name":"spr_Therapist0","path":"sprites/spr_Therapist0/spr_Therapist0.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_Therapist",
+    "name": "spr_Therapist0",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"922d32ef-e34b-4da4-8615-dd2aae849b45","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"eb70087e-d499-4dfb-96ef-0aac948855a2","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Therapist",
     "path": "folders/Sprites/Therapist.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_Therapist",
+  "name": "spr_Therapist0",
   "tags": [],
   "resourceType": "GMSprite",
 }
