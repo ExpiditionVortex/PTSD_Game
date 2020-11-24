@@ -3,10 +3,10 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 textMessage[0] = "I'm out of time.";
-_reactions[0] = noone;
+_reactions[0] = spr_Reaction_Rollen_Bumbed;
 
 textMessage[1] = "I could work on this another 5 hours and not finish. I might as well just call it a day.";
-_reactions[1] = noone;
+_reactions[1] = spr_Reaction_Rollen_Bumbed;
 
 page = 0;
 _name = "";

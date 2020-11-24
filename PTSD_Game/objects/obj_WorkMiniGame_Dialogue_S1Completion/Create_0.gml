@@ -3,7 +3,7 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 textMessage[0] = "Okay, okay. One contract down. Pat on the back.";
-_reactions[0] = noone;
+_reactions[0] = spr_Reaction_Rollen_Slight_Smile;
 
 page = 0;
 _name = "";

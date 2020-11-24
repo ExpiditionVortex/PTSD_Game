@@ -8,4 +8,4 @@ myTextBox = noone;
 myName = "Rollen: ";
 
 myText[0] = "I'll do the laundry another time.";
-myReactions[0] = spr_ReactSad;
+myReactions[0] = spr_Reaction_Rollen_Bumbed;

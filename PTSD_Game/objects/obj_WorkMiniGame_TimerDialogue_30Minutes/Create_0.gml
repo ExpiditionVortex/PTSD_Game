@@ -3,7 +3,7 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 textMessage[0] = "I can't finish this. It's hopeless.";
-_reactions[0] = noone;
+_reactions[0] = spr_Reaction_Rollen_Casual_Talk_Teeth;
 
 page = 0;
 _name = "";
