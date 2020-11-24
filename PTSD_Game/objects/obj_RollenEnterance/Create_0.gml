@@ -4,15 +4,15 @@
 i = 0;
 
 textMessage[i] = "Where is she?";
-_reactions[i] = spr_ReactHappy;
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++;
 
 textMessage[i] = "...";
-_reactions[i] = spr_ReactHappy;
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++
 
 textMessage[i] = "Back corner. Beanie. Got it.";
-_reactions[i] = spr_ReactHappy;
+_reactions[i] = spr_Reaction_Rollen_Slight_Smile;
 i++
 
 page = 0;
