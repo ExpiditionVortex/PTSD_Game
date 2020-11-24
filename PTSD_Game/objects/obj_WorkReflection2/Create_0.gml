@@ -9,7 +9,7 @@ textMessage[i] = "The cognitive weight of stressful activies can have a great im
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "How did you feel the rest of the day.";
+textMessage[i] = "how you feel the rest of the day.";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
