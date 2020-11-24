@@ -4,10 +4,13 @@
 // Inherit the parent event
 //event_inherited();
 
+if (!alreadyTalked)
+	sprite_index = spr_Door_Bedroom_Highlighted;
+
 myTextBox = noone;
 myName = "Rollen: ";
 
-myText[0] = "I'm finding it really hard to get up today";
+myText[0] = "Sometimes I wish I could just get away from it all.";
 myReactions[0] = spr_ReactSad;
 
 initialized = false;

@@ -55,6 +55,7 @@
     {"id":{"name":"obj_Email_StartButton","path":"objects/obj_Email_StartButton/obj_Email_StartButton.yy",},"order":0,},
     {"id":{"name":"obj_MoveLocInvisible","path":"objects/obj_MoveLocInvisible/obj_MoveLocInvisible.yy",},"order":11,},
     {"id":{"name":"spr_bed_reflection","path":"sprites/spr_bed_reflection/spr_bed_reflection.yy",},"order":21,},
+    {"id":{"name":"spr_bed_reflection_Highlighted","path":"sprites/spr_bed_reflection_Highlighted/spr_bed_reflection_Highlighted.yy",},"order":14,},
     {"id":{"name":"spr_Maren","path":"sprites/spr_Maren/spr_Maren.yy",},"order":9,},
     {"id":{"name":"spr_officeplant2","path":"sprites/spr_officeplant2/spr_officeplant2.yy",},"order":7,},
     {"id":{"name":"obj_Desk_Reflection","path":"objects/obj_Desk_Reflection/obj_Desk_Reflection.yy",},"order":2,},

@@ -128,10 +128,13 @@ if (canTalk)
 					if(myTextBox != noone)
 					{
 						instance_destroy(myTextBox);
-						myTextBox = noone;// re-initianl the mytextbox
+						myTextBox = noone;// re-initial the mytextbox
 					}
 				}
 			}
 		}
 	}
 }
+
+if (alreadyTalked)
+	sprite_index = spr_Door_Bedroom;

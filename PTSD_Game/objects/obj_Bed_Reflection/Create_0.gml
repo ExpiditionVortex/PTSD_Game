@@ -4,10 +4,13 @@
 // Inherit the parent event
 //event_inherited();
 
+if (!alreadyTalked)
+	sprite_index = spr_bed_reflection_Highlighted;
+
 myTextBox = noone;
 myName = "Rollen: ";
 
-myText[0] = "I'm finding it really hard to get up today";
+myText[0] = "Sometimes it's easier to just lie there.";
 myReactions[0] = spr_ReactSad;
 
 initialized = false;
