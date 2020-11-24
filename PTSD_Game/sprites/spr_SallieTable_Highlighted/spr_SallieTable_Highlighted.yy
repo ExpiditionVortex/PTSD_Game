@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3b4e4418-d261-415c-8486-c694d355f0ab","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "spr_Furniture",
+    "path": "folders/Sprites/Coffee Shop/spr_Furniture.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_SallieTable_Highlighted",

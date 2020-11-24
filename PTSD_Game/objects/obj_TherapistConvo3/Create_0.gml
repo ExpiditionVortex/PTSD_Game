@@ -3,15 +3,31 @@
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
 
-textMessage[0] = "Therapist: Convo Continues - Closing Scene.";
-textMessage[1] = "Rollen: Convo Continues  - Closing Scene..";
-textMessage[2] = "Therapist: Convo Continues Pt. II  - Closing Scene.";
-textMessage[3] = "Rollen: Convo Continues Pt. II  - Closing Scene.";
+i = 0;
 
-_reactions[0] = spr_ReactHappy;
-_reactions[1] = spr_ReactSad;
-_reactions[2] = spr_ReactHappy;
-_reactions[3] = spr_ReactSad;
+textMessage[i] = "Therapist: That's a natural feeling to have, considering the length of time you two were together";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Therapist: and all of the abuse you suffered.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Therapist: Good habits will make you feel like you have more control.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Therapist: They will help you take important steps when you are ready to take them. ";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Therapist: Remember that healing takes time, and you need to be gentle with yourself.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Therapist: You can't force yourself to get better.";
+_reactions[i] = spr_ReactHappy;
+i++;
 
 page = 0;
 _name = "";

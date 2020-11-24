@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b798cc0e-1daf-4e83-a9df-1fa31063bec3","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bedroom",
+    "path": "folders/Sprites/Bedroom.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Door_Bedroom_Highlighted",

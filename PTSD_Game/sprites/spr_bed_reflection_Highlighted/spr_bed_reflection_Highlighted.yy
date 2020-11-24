@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"74517a71-9327-4abe-a7b6-8e5e8954c65a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bedroom",
+    "path": "folders/Sprites/Bedroom.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bed_reflection_Highlighted",
