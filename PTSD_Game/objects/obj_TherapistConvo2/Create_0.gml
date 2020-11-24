@@ -5,32 +5,32 @@
 
 i = 0;
 
-textMessage[i] = "Therapist: Take a couple breaths, in and out slowly; you look a little stressed.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Take a couple breaths, in and out slowly; you look a little stressed.";
+_reactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
-textMessage[i] = "Therapist: In.... and out....";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "In.... and out....";
+_reactions[i] = spr_Reaction_Therapist_Writing;
 i++;
 
-textMessage[i] = "Therapist: There you go. Looking better already.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "There you go. Looking better already.";
+_reactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
-textMessage[i] = "Rollen: Thank you.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Thank you.";
+_reactions[i] = spr_Reaction_Rollen_Concerned;
 i++;
 
-textMessage[i] = "Therapist: The floor is yours. Whenever your ready.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "The floor is yours. Whenever your ready.";
+_reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
 i++;
 
-textMessage[i] = "Rollen: ...";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "...";
+_reactions[i] = spr_Reaction_Rollen_Concerned;
 i++;
 
 textMessage[i] = "Rollen: Today was rough. It started the moment my alarm went off...";
-_reactions[i] = spr_ReactHappy;
+_reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
 page = 0;

@@ -5,12 +5,12 @@
 
 i = 0;
 
-textMessage[i] = "Rollen: Sorry I'm late. I had another incident.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Sorry I'm late. I had another incident.";
+_reactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-textMessage[i] = "Therapist: Not a problem, Rollen. Come take a seat.";
-_reactions[i] = spr_ReactHappy;
+textMessage[i] = "Not a problem, Rollen. Come take a seat.";
+_reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
 i++;
 
 //textMessage[1] = "Rollen: Thanks";
