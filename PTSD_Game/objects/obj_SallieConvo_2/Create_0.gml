@@ -1,17 +1,23 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-textMessage[0] = "Sammie: So I was...";
-textMessage[1] = "Rollen: Did you see that person that just entered?";
-textMessage[2] = "Sallie: ... got like fifteen Cal Zones...";
-textMessage[3] = "Rollen: They remind me...";
-textMessage[4] = "Rollen: They remind me of-";
+i = 0;
 
-_reactions[0] = spr_ReactHappy;
-_reactions[1] = spr_ReactSad;
-_reactions[2] = spr_ReactHappy;
-_reactions[3] = spr_ReactSad;
-_reactions[4] = spr_ReactHappy;
+textMessage[i] = "Rollen: Hey, what's up.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Sallie: Hey! Long time no see.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Rollen: I can't say super long. Like I said, I've got a doctor's appointment later.";
+_reactions[i] = spr_ReactHappy;
+i++;
+
+textMessage[i] = "Sallie: You're good. I've got a busy schedule myself.";
+_reactions[i] = spr_ReactHappy;
+i++;
 
 
 page = 0;

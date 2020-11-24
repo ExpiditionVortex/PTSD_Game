@@ -20,7 +20,7 @@ _reactions[2] = noone;
 textMessage[3] = "No no no no. That only leaves me...";
 _reactions[3] = noone;
 
-textMessage[4] = "Five hours to get the contract gig done. God...";
+textMessage[4] = "Five hours to get my work done. God...";
 _reactions[4] = noone;
 
 textMessage[5] = "Okay. It's okay. One step at a time.";
