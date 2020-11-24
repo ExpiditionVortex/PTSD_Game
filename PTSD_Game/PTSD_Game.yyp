@@ -125,6 +125,7 @@
     {"id":{"name":"spr_officewall","path":"sprites/spr_officewall/spr_officewall.yy",},"order":8,},
     {"id":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"order":4,},
     {"id":{"name":"obj_Brock","path":"objects/obj_Brock/obj_Brock.yy",},"order":2,},
+    {"id":{"name":"Rollens_Alarm","path":"sounds/Rollens_Alarm/Rollens_Alarm.yy",},"order":9,},
     {"id":{"name":"spr_Rammus","path":"sprites/spr_Rammus/spr_Rammus.yy",},"order":13,},
     {"id":{"name":"obj_deadplant","path":"objects/obj_deadplant/obj_deadplant.yy",},"order":11,},
     {"id":{"name":"obj_Fiero","path":"objects/obj_Fiero/obj_Fiero.yy",},"order":4,},

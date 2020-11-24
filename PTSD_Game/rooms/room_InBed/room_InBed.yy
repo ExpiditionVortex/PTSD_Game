@@ -16,6 +16,13 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Dialogue_RollenIntro","path":"objects/obj_Dialogue_RollenIntro/obj_Dialogue_RollenIntro.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":960.0,"resourceVersion":"1.0","name":"inst_6D744ECF","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_61193434","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"sound","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"objectId":{"name":"obj_SoundPlayer","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"value":"Rollens_Alarm","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_SoundPlayer","path":"objects/obj_SoundPlayer/obj_SoundPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_467BFF2C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"sound","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"value":"Rollens_Alarm","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"onRoomEnd","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_SoundStopper","path":"objects/obj_SoundStopper/obj_SoundStopper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":0.0,"resourceVersion":"1.0","name":"inst_64E7C7C9","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -25,6 +32,8 @@
   "instanceCreationOrder": [
     {"name":"inst_6D744ECF","path":"rooms/room_InBed/room_InBed.yy",},
     {"name":"inst_61193434","path":"rooms/room_InBed/room_InBed.yy",},
+    {"name":"inst_467BFF2C","path":"rooms/room_InBed/room_InBed.yy",},
+    {"name":"inst_64E7C7C9","path":"rooms/room_InBed/room_InBed.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

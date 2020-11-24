@@ -17,14 +17,14 @@ _reactions[1] = noone;
 textMessage[2] = "WAIT. SHIT. IT'S NOON.";
 _reactions[2] = noone;
 
-textMessage[2] = "No no no no. That only leaves me...";
-_reactions[2] = noone;
-
-textMessage[3] = "Five hours to get the contract gig done. God...";
+textMessage[3] = "No no no no. That only leaves me...";
 _reactions[3] = noone;
 
-textMessage[4] = "Okay. It's okay. One step at a time.";
+textMessage[4] = "Five hours to get the contract gig done. God...";
 _reactions[4] = noone;
+
+textMessage[5] = "Okay. It's okay. One step at a time.";
+_reactions[5] = noone;
 
 page = 0;
 _name = "";
