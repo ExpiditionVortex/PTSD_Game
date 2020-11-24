@@ -2,7 +2,7 @@
 // You can write your code in this editor
 //ROLE_X = layer_sprite_get_x(spr_Player);
 //ROLE_Y = layer_sprite_get_y(spr_Player);
-textMessage[0] = "Okay, okay. One contract down. Pat on the back.";
+textMessage[0] = "Hmmm.";
 _reactions[0] = noone;
 
 page = 0;
