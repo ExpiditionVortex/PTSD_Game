@@ -21,7 +21,7 @@ textMessage[i] = "Thank you.";
 _reactions[i] = spr_Reaction_Rollen_Concerned;
 i++;
 
-textMessage[i] = "The floor is yours. Whenever your ready.";
+textMessage[i] = "The floor is yours. Whenever you're ready.";
 _reactions[i] = spr_Reaction_Therapist_Welcome_Smile;
 i++;
 
@@ -29,7 +29,7 @@ textMessage[i] = "...";
 _reactions[i] = spr_Reaction_Rollen_Concerned;
 i++;
 
-textMessage[i] = "Rollen: Today was rough. It started the moment my alarm went off...";
+textMessage[i] = "Today was rough. It started the moment my alarm went off...";
 _reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 
