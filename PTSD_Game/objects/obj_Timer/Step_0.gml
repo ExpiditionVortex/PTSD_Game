@@ -1,4 +1,4 @@
-var timeLeft = alarm[0] div room_speed;
+var timeLeft = (alarm[0] * 2) div room_speed;
 
 if (timeLeft == 30 && !thirtyMinMark)
 {
