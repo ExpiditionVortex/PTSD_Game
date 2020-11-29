@@ -219,6 +219,7 @@
     {"id":{"name":"obj_office_chair","path":"objects/obj_office_chair/obj_office_chair.yy",},"order":14,},
     {"id":{"name":"spr_Reaction_Rollen_Hiding_2","path":"sprites/spr_Reaction_Rollen_Hiding_2/spr_Reaction_Rollen_Hiding_2.yy",},"order":10,},
     {"id":{"name":"spr_Reaction_Therapist_Questioning","path":"sprites/spr_Reaction_Therapist_Questioning/spr_Reaction_Therapist_Questioning.yy",},"order":0,},
+    {"id":{"name":"obj_TableSallie_NonInteractable","path":"objects/obj_TableSallie_NonInteractable/obj_TableSallie_NonInteractable.yy",},"order":10,},
     {"id":{"name":"obj_laundry","path":"objects/obj_laundry/obj_laundry.yy",},"order":14,},
     {"id":{"name":"obj_couch","path":"objects/obj_couch/obj_couch.yy",},"order":1,},
     {"id":{"name":"obj_Door_Bedroom","path":"objects/obj_Door_Bedroom/obj_Door_Bedroom.yy",},"order":13,},
