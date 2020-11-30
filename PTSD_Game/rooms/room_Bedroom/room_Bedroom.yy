@@ -87,6 +87,7 @@
         {"properties":[
             {"propertyId":{"name":"canTalkPersistent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"objectId":{"name":"obj_conversation_parent","path":"objects/obj_conversation_parent/obj_conversation_parent.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_Laundry_Dialogue","path":"objects/obj_Laundry_Dialogue/obj_Laundry_Dialogue.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":96.0,"resourceVersion":"1.0","name":"inst_665BA5C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"comicsTester","path":"objects/comicsTester/comicsTester.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":256.0,"resourceVersion":"1.0","name":"inst_2BCC8479","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"spr_Backpack","path":"sprites/spr_Backpack/spr_Backpack.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":96.0,"resourceVersion":"1.0","name":"graphic_3B1330E","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -356,6 +357,7 @@
     {"name":"inst_1757085B","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"inst_779BED75","path":"rooms/room_Bedroom/room_Bedroom.yy",},
     {"name":"inst_5C5DDC0A","path":"rooms/room_Bedroom/room_Bedroom.yy",},
+    {"name":"inst_2BCC8479","path":"rooms/room_Bedroom/room_Bedroom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
