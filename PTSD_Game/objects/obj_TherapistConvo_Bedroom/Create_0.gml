@@ -37,7 +37,7 @@ textMessage[i] = "So where to next?";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Rollen: Well, I would say my troubles really kick off at work sometimes.";
+textMessage[i] = "Well, I would say my troubles really kick off at work sometimes.";
 _reactions[i] = spr_Reaction_Rollen_Casual_Talk;
 i++;
 

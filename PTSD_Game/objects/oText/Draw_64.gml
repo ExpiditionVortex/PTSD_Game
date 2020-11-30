@@ -8,7 +8,7 @@ draw_set_color(c_black);
 
 if(_reactions[page] != noone)
 {
-draw_sprite(_reactions[page], 0, x1, y1- sprite_get_height(_reactions[page]) + 25);
+draw_sprite(_reactions[page], 0, x1, y1- sprite_get_height(_reactions[page]) + 10);
 }
 
 var _print = string_copy(textMessage[page],1,textProgress);
