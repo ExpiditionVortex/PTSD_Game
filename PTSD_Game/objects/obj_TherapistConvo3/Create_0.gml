@@ -5,27 +5,27 @@
 
 i = 0;
 
-textMessage[i] = "Therapist: That's a natural feeling to have, considering the length of time you two were together";
+textMessage[i] = "That's a natural feeling to have, considering the length of time you two were together";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: and all of the abuse you suffered.";
+textMessage[i] = "and all of the abuse you suffered.";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: Good habits will make you feel like you have more control.";
+textMessage[i] = "Good habits will make you feel like you have more control.";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: They will help you take important steps when you are ready to take them. ";
+textMessage[i] = "They will help you take important steps when you are ready to take them. ";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "Therapist: Remember that healing takes time, and you need to be gentle with yourself.";
+textMessage[i] = "Remember that healing takes time, and you need to be gentle with yourself.";
 _reactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
-textMessage[i] = "Therapist: You can't force yourself to get better.";
+textMessage[i] = "You can't force yourself to get better.";
 _reactions[i] = spr_Reaction_Therapist_Slight_Smile;
 i++;
 
