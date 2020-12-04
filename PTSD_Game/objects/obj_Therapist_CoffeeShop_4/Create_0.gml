@@ -14,7 +14,7 @@ myText[i] = "And now, that feels oddly... violated.";
 myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "You probably associate it with Sarah because of this incident.";
+myText[i] = "You probably associate it with Rose because of this incident.";
 myReactions[i] = spr_Reaction_Therapist_Slight_Concern;
 i++;
 
