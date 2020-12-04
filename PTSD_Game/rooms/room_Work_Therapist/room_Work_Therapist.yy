@@ -31,7 +31,6 @@
         {"properties":[
             {"propertyId":{"name":"utilityType","path":"objects/obj_Utility/obj_Utility.yy",},"objectId":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_Utility","path":"objects/obj_Utility/obj_Utility.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":832.0,"resourceVersion":"1.0","name":"inst_7A2CF676","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":0.0,"resourceVersion":"1.0","name":"inst_437F39B7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":-32.0,"resourceVersion":"1.0","name":"inst_748C4D15","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_14853482","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":96.0,"resourceVersion":"1.0","name":"inst_70112F86","tags":[],"resourceType":"GMRInstance",},
@@ -143,7 +142,6 @@
     {"name":"inst_5EBA6D80","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
     {"name":"inst_5A617E8C","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
     {"name":"inst_7A2CF676","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
-    {"name":"inst_437F39B7","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
     {"name":"inst_748C4D15","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
     {"name":"inst_14853482","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},
     {"name":"inst_70112F86","path":"rooms/room_Work_Therapist/room_Work_Therapist.yy",},

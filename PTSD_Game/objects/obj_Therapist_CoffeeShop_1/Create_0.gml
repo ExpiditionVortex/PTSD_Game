@@ -18,7 +18,7 @@ myText[i] = "We were just getting caught up when this person walked in.";
 myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
-myText[i] = "She looked like Sarah. And even worse, she moved like Sarah. Its like... she's untouchable.";
+myText[i] = "She looked like Rose. And even worse, she moved like Rose. Its like... she's untouchable.";
 myReactions[i] = spr_Reaction_Rollen_Cracks_1;
 i++;
 
