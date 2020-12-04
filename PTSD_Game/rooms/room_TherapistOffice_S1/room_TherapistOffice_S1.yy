@@ -21,7 +21,6 @@
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_Overlay","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":64.0,"resourceVersion":"1.0","name":"inst_62C46729","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":64.0,"resourceVersion":"1.0","name":"inst_565634CA","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Grid","path":"objects/obj_Grid/obj_Grid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":64.0,"resourceVersion":"1.0","name":"inst_1F099F64","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_GameControllers","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -406,7 +405,6 @@
     {"name":"inst_1FA6EBAC","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_27292E77","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_62C46729","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
-    {"name":"inst_565634CA","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_1F099F64","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_3B32605B","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_4BF8C079","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
@@ -634,6 +632,8 @@
     {"name":"inst_77B21B2A","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_2FA25D40","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
     {"name":"inst_676B7203","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
+    {"name":"inst_43FA2082","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
+    {"name":"inst_1419C786","path":"rooms/room_TherapistOffice_S1/room_TherapistOffice_S1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

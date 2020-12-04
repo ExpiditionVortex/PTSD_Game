@@ -12,7 +12,7 @@ else if (global.coffeeShopStage == 3)
 }
 else if (room == room_TherapistOffice_S3)
 {
-	game_end();
+	room_goto(room_Comic4);
 }
 
 //room_goto(nextRoom);

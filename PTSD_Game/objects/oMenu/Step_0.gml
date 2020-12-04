@@ -33,7 +33,7 @@ if((menu_x > gui_width + 150) && (menu_committed != -1))
 {
 	switch(menu_committed)
 	{	// Start the game
-		case 2: room_goto(room_InBed); break;
+		case 2: room_goto(room_Comic1); break;
 		case 1:
 		// create a new dialogue box
 		if(myTextBox == noone)

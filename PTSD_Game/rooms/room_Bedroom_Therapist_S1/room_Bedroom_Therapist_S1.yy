@@ -15,7 +15,6 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_GameController","path":"objects/obj_GameController/obj_GameController.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_CF346B2","path":"rooms/room_Bedroom/room_Bedroom.yy",},"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":480.0,"resourceVersion":"1.0","name":"inst_CF346B2","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_ViewingProperties","path":"objects/obj_ViewingProperties/obj_ViewingProperties.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_4D5E0CC4","path":"rooms/room_Bedroom/room_Bedroom.yy",},"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":480.0,"resourceVersion":"1.0","name":"inst_4D5E0CC4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"nextRoom","path":"objects/obj_TherapistGameController/obj_TherapistGameController.yy",},"objectId":{"name":"obj_TherapistGameController","path":"objects/obj_TherapistGameController/obj_TherapistGameController.yy",},"value":"room_Bedroom_Therapist_S2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"interactableProgression","path":"objects/obj_TherapistGameController/obj_TherapistGameController.yy",},"objectId":{"name":"obj_TherapistGameController","path":"objects/obj_TherapistGameController/obj_TherapistGameController.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
@@ -340,7 +339,6 @@
     {"name":"inst_6A19C22","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
     {"name":"inst_56913067","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
     {"name":"inst_CF346B2","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
-    {"name":"inst_4D5E0CC4","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
     {"name":"inst_5ED0F986","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
     {"name":"inst_2FECE6A8","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
     {"name":"inst_785939C2","path":"rooms/room_Bedroom_Therapist_S1/room_Bedroom_Therapist_S1.yy",},
