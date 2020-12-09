@@ -64,5 +64,5 @@ if( (keyboard_check_pressed(vk_enter) or keyboard_check_pressed(vk_space)) and m
 	menu_cursor =2;
 	myTextBox = noone;
 	myName = "";
-	myText[0] = "Tips:\n w,a,s,d to...\nspace to speed dialogue...";
+	myText[0] = "- Controls -\n 1: w,a,s,d or arrow keys to move character and work mini-game pipes.\n 2: Space to advance dialogue.\n 3: Click to choose utility in work mini game.\n 4. Enter to restart work mini-game level.";
 }
