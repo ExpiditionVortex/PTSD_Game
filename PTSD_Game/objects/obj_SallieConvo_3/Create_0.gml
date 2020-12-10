@@ -22,22 +22,22 @@ _reactions[5] = spr_Reaction_Rollen_Cracks_2;
 textMessage[6] = "You know if you need to talk, I'm here to listen.";
 _reactions[6] = spr_Reaction_Sallie_Really_Concerned;
 
-textMessage[7] = "Yeah..";
+textMessage[7] = "Yeah...";
 _reactions[7] = spr_Reaction_Rollen_Cracks_2;
 
 textMessage[8] = "I know. I know...";
 _reactions[8] = spr_Reaction_Rollen_Cracks_2;
 
-textMessage[9] = "I'm sorry... I really have to get going.";
+textMessage[9] = "I'll be right back.";
 _reactions[9] = spr_Reaction_Rollen_Cracks_2;
 
-textMessage[10] = "Already? You just got here.";
+textMessage[10] = "Where are you going?";
 _reactions[10] = spr_Reaction_Sallie_Really_Concerned;
 
-textMessage[11] = "I know, I'm sorry.";
+textMessage[11] = "Bathroom. I just...";
 _reactions[11] = spr_Reaction_Rollen_Cracks_2;
 
-textMessage[12] = "I just-";
+textMessage[12] = "Please excuse me.";
 _reactions[12] = spr_Reaction_Rollen_Cracks_2;
 
 page = 0;
