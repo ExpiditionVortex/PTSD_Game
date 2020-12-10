@@ -21,7 +21,7 @@ textMessage[i] = "You're anything but a failure. You've faced trials, plenty and
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 
-textMessage[i] = "But you've persevered. You're here today because your a fighter. It's a testament to your will.";
+textMessage[i] = "But you've persevered. You're here today because you're a fighter. It's a testament to your will.";
 _reactions[i] = spr_Reaction_Therapist_Questioning;
 i++;
 

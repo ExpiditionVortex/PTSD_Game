@@ -11,7 +11,7 @@ textMessage[i] = "Hey! Long time no see.";
 _reactions[i] = spr_Reaction_Sallie_Big_Smile;
 i++;
 
-textMessage[i] = "I can't say super long. Like I said, I've got a doctor's appointment later.";
+textMessage[i] = "I can't stay super long. Like I said, I've got a doctor's appointment later.";
 _reactions[i] = spr_Reaction_Rollen_Blush;
 i++;
 
